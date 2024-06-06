@@ -1,0 +1,553 @@
+Place ID,displayName,formattedAddress,rating,priceLevel,reservable,outdoorSeating,servesDessert,goodForChildren
+ChIJUbWxchMxMTARoEjJuC4aTIY,RANAK SMOKE BBQ,"Jalan Veteran Gg. Mangga No.05/145, Tegal Rejo, Kec. Medan Deli, Kota Medan, Sumatera Utara 20241, Indonesia",5,unknown,True,unknown,unknown,True
+ChIJA0T-6vYvMTARfpdyi4QNlYs,Medan Barbeque & Steamboat Suki,"Jl. K.H. Wahid Hasyim No.86, Babura, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",4.3,unknown,True,True,True,True
+ChIJ8U0rEmIsDogROcBPM_7xIL4,DaeBak Korean BBQ Restaurant,"T1&T2 Jati Junction, Jl. Timor, Perintis, Kec. Medan Tim., Kota Medan, Sumatera Utara 20236, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJlzh8-lx9bIcRwMgyO9sRsWM,Angry Korean Bbq,"Jl. Airlangga No.11E, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,False,False,True
+ChIJsU2nQ7QxMTAR0vFGTaSNfX0,Omma Recipe,"Jl. Semarang No.92, Ps. Baru, Kec. Medan Kota, Kota Medan, Sumatera Utara 20212, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,unknown,True
+ChIJU7e0LywxMTAR8IhHGef7JDA,Big Big Bite,"Jl. Listrik No.16, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20231, Indonesia",5,unknown,True,unknown,unknown,True
+ChIJR8wIG5hOh4gRq3XAfiz0_sk,JOM BARBEQUE,"HP35+5W9, Gg. Adil, Binjai, Kec. Medan Denai, Kota Medan, Sumatera Utara, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJ_4YeolglMTARIyimqIrQdXk,BPK SAUDARANTA,"Jl. Pintu Air IV No.377, Kwala Bekala, Kec. Medan Johor, Kota Medan, Sumatera Utara 20146, Indonesia",unknown,unknown,unknown,unknown,unknown,unknown
+ChIJ-QZ7sL72aS4RHxryJz8lMkg,Cafe Sahabat,"Gg. Sahabat No.61, Titi Kuning, Kec. Medan Johor, Kota Medan, Sumatera Utara 20219, Indonesia",3,unknown,unknown,unknown,unknown,unknown
+ChIJwTkonu6wD4gRJ1K6oDZacGE,"Chung Gi Wa, Korean BBQ","Jl. Imam Bonjol No.24 C/D, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20236, Indonesia",4.5,unknown,True,False,True,True
+ChIJWVFojvrtaS4RNc7wAFztBlM,Manggang Grilled Beef BBQ,"Jl. S. Parman No.62C, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",5,unknown,unknown,unknown,True,True
+ChIJARmy6dU9TIYRlArBW4puH1w,Raa cha Suki & BBQ,"Jl. KH. Zainul Arifin No.7, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20151, Indonesia",4.3,unknown,unknown,unknown,unknown,True
+ChIJN_bcAscxMTARbrCxx05ugnI,D'Maung Steak & Grill 1,"Jl. Gatot Subroto No.75, RT.02, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20231, Indonesia",4,unknown,True,unknown,unknown,True
+ChIJY4TiZwA7MTARApXx4t48XGw,BPK Marima Pork Grill,"Titi Kuning, Medan Johor, Medan City, North Sumatra 20219, Indonesia",4.9,unknown,unknown,unknown,unknown,True
+ChIJHZ322Z4xMTARgyPzSIdr9Jw,Galmaegi Korean BBQ Restaurant,"Jl. KH. Zainul Arifin No.122, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20151, Indonesia",4.4,unknown,True,unknown,unknown,True
+ChIJbxebWXExMTARbCL5ru4KWpY,Meatsuka,"Jl. Jenderal Sudirman No.40, Anggrung, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20151, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJ26bEJwwvMTARSmC6UDySsMU,InQ Indonesian BBQ,"Jl. Darussalam No.17, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",3,unknown,unknown,unknown,unknown,True
+ChIJ3bQzKIwxMTAR0SOt8P2Flp8,Meatme Medan,"Jl. Gajah Mada No.3, Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara 20233, Indonesia",3.2,unknown,unknown,True,unknown,True
+ChIJu-aHgN8xMTARSsNj___fiU8,OnDo Grill Batak,"Jl. Pabrik Tenun No.45, Sei Putih Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20118, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,True,True,True
+ChIJQRIJQLSp1TER6FvanM-Iz_I,Gapyeong Korean BBQ,"Jl. Setia Budi Kel No.10 C, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20119, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJd87vkccxMTARKHhqGU8EjEQ,Healy Mac's Bar And Restaurant Medan,"15-16, Centre Point, Ruko Jl. Timor Dalam No.23 Blok M, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20231, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,True,unknown,False
+ChIJ33C_ALYxMTARkBdDFM-kUFc,HW Helen's Live Bar Medan,"Jl. A. Rivai, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara, Indonesia",4.7,unknown,True,unknown,unknown,False
+ChIJyd17XeEvMTARVnGS9L63DpM,High5 Bar & Lounge,"Jl. Abdullah Lubis No.81, Babura, Kec. Medan Baru, Kota Medan, Sumatera Utara 20222, Indonesia",4.5,unknown,True,unknown,unknown,False
+ChIJ6QN0y0zyAogRDvfw9lrA5w4,Shoot. Resto.Bar.Club,"Jl. Kapten Patimura No.423, Darat, Kec. Medan Baru, Kota Medan, Sumatera Utara 20222, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,False,unknown,False
+ChIJJUWbPsM5DogR6KwNvMUoTVI,The View Restaurant,"Cambridge Hotel Medan, Jl. S. Parman No.217, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20152, Indonesia",4.6,unknown,True,unknown,True,False
+ChIJj5n5klExMTAR8QjEk1--4eY,HW Dragon Bar Medan,"Jl. Putri Merak Jingga No.8, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.7,unknown,True,unknown,unknown,False
+ChIJG0YN9rIxMTARLWXPEo0YJEs,HW Tiger Club Medan,"depan swalayan maju bersama, Jl. Putri Merak Jingga No.8-9, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.7,unknown,unknown,unknown,unknown,False
+ChIJAQCQBKssDogRIQIuX0PP9ME,SKY the Oasis Rooftop Bar & Lounge,"Jl. Dr. Mansyur No.98, Padang Bulan Selayang I, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20153, Indonesia",4.8,unknown,True,unknown,True,False
+ChIJkSrjOSdV-YcR15MKRPM8oPI,Retrospective Reserve,"Jl. Putri Hijau No.1A, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,unknown,unknown,False
+ChIJ7bwy34AvMTARYOf7KYGxdj0,Hive Billiar Medan,"Jl. Sei Batang Hari No.6, Babura Sunggal, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20112, Indonesia",4.6,unknown,True,unknown,unknown,False
+ChIJL3SMVPCKtocRs5OHS7matSo,The Cube Club,"Hotel Danau Toba Internasional, Jl. Imam Bonjol No.17, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.4,unknown,True,False,unknown,False
+ChIJ7XHgXhHQD4gRUZtaG_7Mghw,The Lavish Room,"YAFURNI PLAZA, Jl. Iskandar Muda No.7, Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",4.9,unknown,True,unknown,unknown,False
+ChIJfT2sZGsvMTARN1r8oHHJHjI,Cello Skypool & Lounge Bar,"Jl. Danau Marsabut No.90, Sei Agul, Kec. Medan Bar., Kota Medan, Sumatera Utara 20114, Indonesia",4.2,unknown,True,True,unknown,False
+ChIJI2PRAScvMTARm53pBkRMHI4,H7 Club & KTV,"Jl. Abdullah Lubis No.50, Merdeka, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",4.5,unknown,True,unknown,unknown,False
+ChIJZSVy8AM64ocRlY6b_t3tFqU,The palace Pub & Bar,"Jl. Ir. H. Juanda Blk. F No.1, Sukaraja, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4.2,unknown,unknown,unknown,unknown,False
+ChIJEUtez8XxwIcRGKTYcCwBP9Y,Prime Bar,"JW Marriott Medan, Jl. Putri Hijau No.10, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.1,unknown,True,unknown,unknown,False
+ChIJQZMVWMsxMTARXyEFn-nb9iQ,Harbour 9,"Gedung Forum Nine CIMB Niaga Lanta Dasar, Jl. Imam Bonjol No.9, Petisah Tengah, Medan Petisah, Medan City, North Sumatra 20112, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,unknown,False
+ChIJY8MY4uAh9ocRt8rGjiANHso,Level 02,"Jl. Iskandar Muda, Babura, Kec. Medan Baru, Kota Medan, Sumatera Utara 20111, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,True,unknown,False
+ChIJNZW-Up2tLogRkhvD8jDKXTE,Bru garden,"Jl. Cut Mutia No.26, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20151, Indonesia",4.8,unknown,True,unknown,unknown,False
+ChIJoXEOwz4xMTAR72J5i_F-9-0,Amergency Cocktail,"Jl. Dazam Raya No.52, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",4.9,unknown,True,unknown,unknown,False
+ChIJI0AnbNQvMTAR5F1rrXlQxCA,Pondok Sarapan Murah Rezeki Dan Rumah Makan Ragam Rasa,"HMG4+V5H, Jl. Abdullah Lubis, Babura, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJT0AjnrExMTARBA1j-UIC7l4,Takasi Enak,"Jl. Kalianda, Sei Rengas I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJMxCa0c4vMTARzZH8OIWV5Ms,Waroeng Kakak Adek Sarapan Pagi & Ice Blend,"Jl. Setia Budi No.40, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20119, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJb3369L-MaS4R5OMOYvYiPz0,Sarapan Pagi Enak,"JM46+45P, Sei Agul, Medan Barat, Medan City, North Sumatra 20114, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJlUFgLcUxMTARfhBA-QwuVb0,Rumah Makan Sinar Pagi,"No.2D/1, Jl. Sei Deli No.2D/1, Silalas, Kec. Medan Bar., Kota Medan, Sumatera Utara 20236, Indonesia",4.3,PRICE_LEVEL_MODERATE,False,False,True,True
+ChIJe6d432YruIcR-TNxJAD3s88,Brunch Dinner & Supper Place,"Jl. Darussalam No.31 A, RW.02, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",3.9,unknown,unknown,unknown,unknown,True
+ChIJTVMBlCwxMTARAnFT6j7uXkQ,Warung Pagi Enak,"HMXH+J2C, Jl. Gaharu, Gaharu, Kec. Medan Tim., Kota Medan, Sumatera Utara, Indonesia",4.5,unknown,unknown,unknown,unknown,True
+ChIJZwTdLTFfXIYRe5UuTCO98qY,Tempat makan,"Jl. Sisingamangaraja No.78, Mesjid, Kec. Medan Kota, Kota Medan, Sumatera Utara 20213, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJ6WGE__swMTARE9PEnofMTd0,Rumah Makan Sarapan Pagi Etek Setia Baru,"B, 20226, Jl. Bromo No.91, Tegal Sari II, Kec. Medan Area, Kota Medan, Sumatera Utara 20227, Indonesia",4.8,unknown,unknown,unknown,unknown,True
+ChIJk6hmXMUxMTARllg1GTIJ3mg,Rumah umi jumiati (jualan sarapan pagi),"Jl. Tombak No.22-14, Sidorejo Hilir, Kec. Medan Tembung, Kota Medan, Sumatera Utara 20222, Indonesia",4.8,unknown,unknown,unknown,unknown,True
+ChIJg6iZj8kxMTARXyRGkcawstI,Serapan pagi nenek rindi,"Jl. Tuasan No.41, Sidorejo Hilir, Kec. Medan Tembung, Kota Medan, Sumatera Utara 20222, Indonesia",5,unknown,True,True,True,True
+ChIJqSMAWMNvyYcRmYw9NyHQzM0,Spoon Dining,"Jl. Balai Kota No. 1 Petisah Tengah Medan Petisah Medan, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20236, Indonesia",4.4,unknown,True,True,True,True
+ChIJSySX3qUvMTARRdxh6ewFxXI,Warung Lontong dan Nasi Gurih Bu Atik Medan,"Jl. Jawa No.54 A, Sei Sikambing C. II, CII, Kota Medan, Sumatera Utara 20123, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJjVFB4HslMTARnPiAQx57mjk,Sarapan Pagi Umi Yani,"GJMC+VMC, Jl. Setia Budi, Simpang Selayang, Kec. Medan Tuntungan, Kota Medan, Sumatera Utara 20135, Indonesia",4.5,PRICE_LEVEL_MODERATE,unknown,True,unknown,True
+ChIJz1qqMLwxMTARLLVRufzBMpQ,Mama Sayang Sarapan,"Jl. Prof. H. M. Yamin No.114/32a, Sidodadi, Kec. Medan Tim., Kota Medan, Sumatera Utara 20233, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJXw01sCguMTARNg4CEhbA4ag,Sarapan Pagi Hj Nian,"Jl. Gatot Subroto No.311, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.7,unknown,True,unknown,False,True
+ChIJkTl6agwvMTARRZxHFxegMwA,Sarapan Pagi Mbak Novi',"Jl. Sei Putih Baru No.3B, Babura, Kec. Medan Baru, Kota Medan, Sumatera Utara 20154, Indonesia",4.2,unknown,unknown,unknown,unknown,True
+ChIJjcmmA0EuMTARyWqCQcV9CFs,Warung Sarapan Pagi Beby,"HJXM+6X5, Jl. Amal Luhur, Dwi Kora, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20123, Indonesia",4.8,unknown,unknown,unknown,unknown,True
+ChIJtS7DHBPxaS4RsebkRg6xmLo,Nusa Indah Rumah Makan,"Jl. Palang Merah No.90, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20212, Indonesia",4.4,unknown,unknown,False,unknown,True
+ChIJmyi34jIvMTARnt7a10PPk3s,Sarapan Pagi Kurnia,"Jl. Gajah Mada No.44, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJx2yIuV8eBYgR2LMHems94Yk,Royal Garden Restaurant,"Jl. Tapanuli No.109, Pandau Hulu I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20233, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJEepZiOwxMTAR4p5AmumKD-M,Athing Chinese Food,"Jl. Bambu I No.70, Durian, Kec. Medan Tim., Kota Medan, Sumatera Utara 20236, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,False,unknown,True
+ChIJ37FS9Nw7dYgRLFQQWKd_cmE,Taipan Restaurant,"Capital Building, Jl. Putri Hijau No.1A Lantai 1, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.6,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJIXtw9UDFjIgRHT0nvJ_4e-M,Restoran Chinese Food,"HMMP+Q7P, Pasar Baru, Medan Kota, Medan City, North Sumatra 20212, Indonesia",4.7,unknown,True,unknown,unknown,True
+ChIJQ5pQUENryYcRqyETTNK5-K0,Jade Restaurant,"JW Marriott Medan, Jl. Putri Hijau No.10, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.5,unknown,True,False,True,True
+ChIJX4fLUjQwMTAROXV6IKF9Gnc,Ta Shanghai Restaurant,"JL. Multa Tuli Raya, No. 123 Blok SF, Komp. Multatuli Indah Bl FF, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4.3,PRICE_LEVEL_EXPENSIVE,True,unknown,unknown,unknown
+ChIJuar8SsAxMTAR-nJJhmDfFnM,RM.Chinese Food Peringgan Jaya,"Jl. Iskandar Muda No.200A, Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara 20152, Indonesia",4.3,unknown,unknown,unknown,unknown,True
+ChIJ01TKUnzQ2IcRm7fVfILnEnw,Ji Long Chinese Restaurant,"Grand City Hall Medan, JL.Balai Kota ,Medan Kota 20112, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20149, Indonesia",4.6,unknown,True,False,True,True
+ChIJk4pxvRtQERARIYWAUlUhrwc,Rumah Makan Ming,"Jl. Wahidin No.55 C, Pandau Hulu I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,unknown,True
+ChIJqyCkH9UvMTARumKuWRzzRDg,Golden Yen,"Medan, Business Center, Jl. S. Parman No.10-11 Blok B9, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20153, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJtTUDELMxMTARoyUQr5Uz5qA,RM Hauxiang,"HMJQ+QW2, Jl. Kotacane, Sei Rengas I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,unknown,unknown,True
+ChIJ-bgUAXIxMTARcot-k7cNMzQ,Li Kung Restaurant,"JL. Kol Sugiono No.7A, Medan, North Sumatera, 20152, A U R, Medan Maimun, Medan City, North Sumatra 20212, Indonesia",4.6,unknown,True,False,True,True
+ChIJ6WblKMkxMTAR-v-JcK5Uz78,Rumah Makan David,"Jl. Hindu No.3, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20231, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,unknown,True
+ChIJ4Y75WtkxMTARQT7mptQ9wco,The Lye Kitchen,"Jl. Meranti No.3K, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20113, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,unknown,unknown,True
+ChIJXaUAQbYxMTARSfeqs2KYqkg,Restoran Ria,"Jl. Letjen MT. Haryono No. 11-15, Ps. Baru, Kec. Medan Kota, Kota Medan, Sumatera Utara 20212, Indonesia",4.6,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJ88338qsvMTARYdRbZvX7JpM,RM. Primadona Chinese Food,"Komplek Primadona, Jl. Sunggal No.R4, Sunggal, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20128, Indonesia",4.5,PRICE_LEVEL_MODERATE,unknown,True,unknown,unknown
+ChIJuYHZKrQZ2jERuAMG3qVN5pk,Tai Hwa,"Jl. Perdana No.11, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20236, Indonesia",4.7,PRICE_LEVEL_MODERATE,unknown,unknown,unknown,unknown
+ChIJf2ChD88xMTARmyPLaycMwRg,Wisma Benteng Restaurant,"Jl. Kapten Maulana Lubis No.6, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20236, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJxdcPkcM0K4gRtZB3BsjQutg,Shantou Restaurant,"2, Gedung Yayasan Tio Ciu, Jl. Gandhi No.123, Sei Rengas II, Kec. Medan Area, Kota Medan, Sumatera Utara 20211, Indonesia",4.4,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJHTc68h4uMTARsu6iZTebGyM,Rumah Makan AIK,"Jl. Danau Singkarak Kelurahan No.12, Sei Agul, Kec. Medan Bar., Kota Medan, Sumatera Utara 20117, Indonesia",4.1,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJk7bQXaIxMTARFJLiHkNArPI,Tempat Biasa Medan Coffee Shop,"Jl. Gurilla No.102, Sei Kera Hilir II, Kec. Medan Perjuangan, Kota Medan, Sumatera Utara 20222, Indonesia",4.7,unknown,True,unknown,unknown,True
+ChIJi6eAXMan9YgREkntvJIddhg,Sada Coffee House,"No. 15/79, Jl. Sei Bahorok No.Kel, Babura, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,True,True,False
+ChIJPbT-AGLTFogRY6h7ma3TDNo,VO COFFEE,"Komplek Medan Bussiness Center, Jl. S. Parman, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.7,unknown,True,True,False,True
+ChIJ39H7l9AxMTAR-Ui-0vbjPEc,Toko Sempurna Medan Coffee Shop,"Jl. Rotan No.26, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20116, Indonesia",4.4,PRICE_LEVEL_MODERATE,unknown,unknown,unknown,True
+ChIJXcl0Vo_RuIcRBqUxhO1yLG4,Opal Coffee,"Jl. T. Amir Hamzah No.56 C, Helvetia Tim., Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20124, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJjaPlhqhPWBQREnTEFw6inLs,DEPRESSO COFFEE SHOP,"Jl. Halat No.15, Ps. Merah Tim., Kec. Medan Area, Kota Medan, Sumatera Utara 20215, Indonesia",4.4,unknown,unknown,unknown,unknown,unknown
+ChIJJZZ0ukXnaC4Rgm0Vorz5O6s,Kopi Agan,"Jl. Putri Merak Jingga, Jl. Gudang Dalam No.15, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.6,unknown,True,True,unknown,True
+ChIJ08r3ztIxMTARgOyE9YHePmc,Coffeenatics,"Jl. Teuku Cik Ditiro No.8K, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJdfBKVGIxMTARNVNl7QiCNGo,KOPILIHDIA COFFEE SPARMAN,"Jl. S. Parman No.62d, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",4.7,unknown,unknown,True,True,True
+ChIJedEDXrYxMTARqptpYAXSdyI,Kopi Ruang Kosong,"Jl. Teuku Cik Ditiro No.17, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.3,unknown,unknown,unknown,unknown,True
+ChIJizDUqYIp9ocRkvvQkEGU9PQ,Kopicie coffee,"Jl. Gatot Subroto No.186, Sei Sikambing C. II, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20123, Indonesia",4.4,PRICE_LEVEL_MODERATE,unknown,True,unknown,unknown
+ChIJV54YBHTONjARXUfY9bw5Wcw,Macehat Coffee,"Jl. Karo No.20, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,False
+ChIJ_bskVQ0xMTAR2lyDzrvZC5w,Medan Coffee House,"Jl. Laksana No.28B, Kotamatsum III, Kec. Medan Kota, Kota Medan, Sumatera Utara 20215, Indonesia",4.8,unknown,True,True,unknown,False
+ChIJwz_w9SwxMTARLDVBkSysCn4,Bahtera Kopi Medan,"Jl. Pelangi, Teladan Bar., Kec. Medan Kota, Kota Medan, Sumatera Utara 20217, Indonesia",5,unknown,False,unknown,unknown,True
+ChIJfcCifJoxMTARR8CfcGD_bAk,Kopi Pagi,"Jl. Kol. Sugiono No.10B, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.7,unknown,unknown,unknown,True,unknown
+ChIJh-ZnrN7x2YkR1ByEI0V5Kv8,Caf├â┬® Liverpool,"HMH5+6HV, Jl. Sei Bahorok, Babura, Kec. Medan Baru, Kota Medan, Sumatera Utara 20222, Indonesia",4.2,unknown,unknown,unknown,unknown,unknown
+ChIJEVoYvssxMTARWDkUl3wKbPA,Coffee Box Palang Merah,"Jl. Suka Mulia No.A - 7, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJ-yr3W9TjuocR1s_Rm4umwB4,Ristreeto Coffee House,"Gg. Peringatan No.94, Silalas, Kec. Medan Bar., Kota Medan, Sumatera Utara 20235, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJwQXNFBuz2YgR9cpEJs02eQY,Mantis Coffee Shop,"Jl. Halat No.36A, Kota Matsum IV, Kec. Medan Area, Kota Medan, Sumatera Utara 20211, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJk6pc5ykuMTAR-9QE7XgrOj0,Kopi Toast,"Jl. Mayjen D.I Panjaitan No.156, Babura, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJJ2E0OpUPmogRVBSEeVch2EU,Oui Dining,"Jl. Sei Belutu No.66, Padang Bulan Selayang I, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20131, Indonesia",4.7,unknown,True,unknown,True,unknown
+ChIJ8SVXWqdV-YcRkeNST2xFnVs,Le Chateau,"Jl. Perintis Kemerdekaan, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20236, Indonesia",4.6,unknown,True,unknown,True,True
+ChIJ7cSrJ6tM34cRnbfrlBQNy7A,The Upper Level,"Jl. Taruma No.52 Level 2, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.7,unknown,True,False,True,unknown
+ChIJD5wUeH4vMTARhhj1myvWZsA,Petite Terrasse,"Jl. Sei Belutu No.66, Padang Bulan Selayang I, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20154, Indonesia",4.9,unknown,True,True,True,True
+ChIJ8e_AIJ57yIcRg-81HRR27LU,Orchid Restaurant,"Jl. Sutomo No.1, Perintis, Kec. Medan Tim., Kota Medan, Sumatera Utara 20235, Indonesia",4.3,unknown,True,unknown,True,True
+ChIJQ5pQUENryYcRqyETTNK5-K0,Jade Restaurant,"JW Marriott Medan, Jl. Putri Hijau No.10, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.5,unknown,True,False,True,True
+ChIJHepGWVLTD4gRq7FdjxR7boM,BISTRONOMIX,"Jl. Perintis Kemerdekaan, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20236, Indonesia",4.6,unknown,True,True,True,False
+ChIJgdkD2b7stocRbVjMGALzEW4,Prime Steakhouse,"JW Marriott Hotel, Jl. Putri Hijau No.10 Lantai LG, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.6,unknown,True,unknown,True,False
+ChIJwdM51QfzjIgRhFkBleBC-DA,The Edge Restaurant,"Jl. S. Parman No.217, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",4.5,unknown,True,True,True,True
+ChIJqSMAWMNvyYcRmYw9NyHQzM0,Spoon Dining,"Jl. Balai Kota No. 1 Petisah Tengah Medan Petisah Medan, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20236, Indonesia",4.4,unknown,True,True,True,True
+ChIJA_fTfdMxMTAR4kXo1oSPlhM,Alliance fran├â┬ºaise Medan,"Jl. Hasanuddin No.5B, Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",4.9,unknown,unknown,unknown,unknown,unknown
+ChIJzUC7k8YvMTAReKWjVCFz7C4,Cuexx Burger Medan Simpang Dr. Mansyur,"sederetan Raz Hotel sebelah Miesop Kampung Djoyo, Jl. Dr. Mansyur No.166, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20154, Indonesia",4.6,unknown,unknown,unknown,unknown,True
+ChIJQxyn2dUvMTARdxYCN_8-0nE,Burger Sei Putih,"Jl. Sei Putih No.11a, Merdeka, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",4.5,PRICE_LEVEL_INEXPENSIVE,False,True,False,unknown
+ChIJncHBBstIAYcRCJQKkbwpb0A,Coyote Burger,"Jl. STM No.1, Sitirejo II, Kec. Medan Amplas, Kota Medan, Sumatera Utara 20219, Indonesia",4.4,PRICE_LEVEL_INEXPENSIVE,True,unknown,False,True
+ChIJOVVnNuwxMTARPbqqc35Jy8Y,Burger Medan|Burger FM,"Jl. Tuasan No.96, Sidorejo Hilir, Kec. Medan Tembung, Kota Medan, Sumatera Utara 20222, Indonesia",4.8,unknown,unknown,unknown,unknown,True
+ChIJu05FJK0vMTAR1SrL7uxRAvA,Muda Burgerbar Medan,"Jl. Setia Budi, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara, Indonesia",4.9,unknown,unknown,unknown,unknown,True
+ChIJb7r3rV-eToYRAMLuk86BHrI,Burger Lover's,"Jl. Kapten Muslim No.115 C, Dwi Kora, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20122, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJY_NFpGkxMTARLuAnndeHg20,Burger Bangor Iskandar Muda,"Jl. Iskandar Muda, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara, Indonesia",4.4,PRICE_LEVEL_MODERATE,unknown,True,unknown,True
+ChIJIX_lnDo7TIYRZ6cFUN7AmTI,Cella Burger,"HMQQ+MM9, Jl. Talaud, Pusat Ps., Kec. Medan Kota, Kota Medan, Sumatera Utara 20212, Indonesia",4.5,unknown,unknown,unknown,unknown,True
+ChIJdzhXcvgqXogRLG1wZhZt7ro,Wkwk Burger,"Jl. Utama No.216, Kota Matsum II, Kec. Medan Area, Kota Medan, Sumatera Utara 20216, Indonesia",4.3,unknown,unknown,unknown,unknown,True
+ChIJ9XhbZEkSt4cRrt1_UY3R0Ns,Burger King,"HMM8+Q5W, Jl. Gajah Mada, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20152, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJHVigzZuStocRHhH-SSDDNVE,Street burger,"Jl. Turi II No.7, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.7,unknown,unknown,unknown,unknown,True
+ChIJ22VAfmgxMTARMtKMyjSO-3U,burger & ayam penyet arasya,"Jl. Medan Area Selatan No.128, Sukaramai I, Kec. Medan Area, Kota Medan, Sumatera Utara 20216, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJ2Qd1KdcxMTART7SxaBtf0Bs,M-Burger Kalingga,"Jl. Kalingga No.14, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.8,unknown,unknown,True,True,True
+ChIJS1m-AVUwMTARfnvQ15LtTJg,Rumah Blepots,"Jl. Medan Area Selatan No.66, Sukaramai I, Kec. Medan Area, Kota Medan, Sumatera Utara 20227, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJ9XhbZEkSt4cRrt1_UY3R0Ns,Burger King,"Jl. Gatot Subroto No.30, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20113, Indonesia",4.7,PRICE_LEVEL_MODERATE,unknown,False,True,True
+ChIJJ_wJ6Ja-XIgRntoajQb5LYs,Hutabarat Burger,"JM4M+24P, Sidorame Barat I, Medan Perjuangan, Medan City, North Sumatra 20233, Indonesia",4.3,unknown,unknown,unknown,unknown,True
+ChIJ72xYS9qsQIYR1Ydlke7yXwM,Raffa Burger,"mesjid Al ishlah, Jl. Kapten Muslim seberang, Sei Sikambing B, Kec. Medan Helvetia, Kota Medan, Sumatera Utara, Indonesia",3.9,unknown,unknown,unknown,unknown,True
+ChIJU6UxHEERBYgRg1c-t-QA3Hc,Burger Taqwa,"Gg. Taqwa No.23c, Sei Sikambing B, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20118, Indonesia",4,unknown,unknown,True,unknown,True
+ChIJH0OYKaUxMTAR9JtlJmXtAd4,Burger King Deli park,"Jl. Putri Hijau Jl. Guru Patimpus No.1, Kesawan, OPQ, Kota Medan, Sumatera Utara 20111, Indonesia",4.8,PRICE_LEVEL_MODERATE,unknown,unknown,True,True
+ChIJ-Xl1FA8qE4cRPMHeQ2e6zuo,BALSKE BURGER,"Jl. Sei Belutu No.74, Padang Bulan Selayang I, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20154, Indonesia",4.6,unknown,unknown,unknown,unknown,True
+ChIJmUCUdckxMTARGG7lJ_CeXBE,ICE CREAM APO,"HMPH+HQ6, Kesawan, Medan Barat, Medan City, North Sumatra 20212, Indonesia",4.5,unknown,unknown,unknown,unknown,unknown
+ChIJtyiYyrMoeIgRVZgHuzmTRI4,Ice Cream Corner,"Watsons, Jl. Gatot Subroto No.30, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJRfnFIT4vMTARirdPrNTeW5s,Paletas Wey Medan,"Jl. Waringin Komplek Waringin Residence No.38 LL, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJOXmSWvEQyYcR-0AOajDtorM,Ice Cream,"02, Jl. Arief Rahman Hakim No.341, Ps. Merah Tim., Kec. Medan Area, Kota Medan, Sumatera Utara 20216, Indonesia",4.1,unknown,unknown,unknown,unknown,unknown
+ChIJ0YujJqUzMTARvFiXl4AbMqQ,My Ice Cream Medan,"Titi Papan, Medan Deli, Medan City, North Sumatra 20244, Indonesia",unknown,unknown,unknown,unknown,unknown,unknown
+ChIJzYenT8wxMTAR8G7pwqHeiI0,Letsgo Gelato Sun Plaza Medan,"Jalan KH. Zainul Arifin No.7 Sun Plaza Mall, lantai LG, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20152, Indonesia",4.6,PRICE_LEVEL_MODERATE,unknown,unknown,unknown,unknown
+ChIJizWdkM0xMTARNMhEI5h-3S8,Fountain Ice Cream Cafe,"Jl. KH. Zainul Arifin No.3, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20151, Indonesia",3.7,unknown,unknown,unknown,unknown,unknown
+ChIJ96D-6YAvMTARexoaBVQEy_U,Es Coklat Bahagia Medan,"Jl. Mayjen D.I Panjaitan No.15, Babura, Kec. Medan Baru, Kota Medan, Sumatera Utara 20222, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJ4RLEkhAiZ4gRJBcamCDnfM0,City Ice Cream,"Jl. Gatot Subroto No.30 #L1 - 30,31, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20113, Indonesia",4.2,PRICE_LEVEL_MODERATE,unknown,False,True,True
+ChIJFQxNe6w6MTAR_VbR494WS_o,Rumah Ice Cream Exlusive,"Jl. Karya Wisata No.55 B, Pangkalan Masyhur, Kec. Medan Johor, Kota Medan, Sumatera Utara 20143, Indonesia",4.1,unknown,unknown,unknown,unknown,unknown
+ChIJG20ZH7zwtocRtpfdbnPzAIw,Baskin Robbins,"HMWG+RRF, Kesawan, Medan Barat, Medan City, North Sumatra, Indonesia",4.5,PRICE_LEVEL_MODERATE,unknown,unknown,unknown,unknown
+ChIJp985HvMxMTARVo9enyZ07fo,Hok Lai Ice Cream,"Jl. Gunung Krakatau No.61, Glugur Darat II, Kec. Medan Tim., Kota Medan, Sumatera Utara 20239, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJPTVtpUwxMTARxlZwuWAFfEs,Mixue Plaza Medan Fair,"Jl. Gatot Subroto No.30 Lantai 1, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara, Indonesia",4.9,unknown,unknown,unknown,unknown,unknown
+ChIJp1tM5oLZ-4YRt6gGexCgISg,Fountain Ice Cream,"Jl. Karya No.117, Sei Agul, Kec. Medan Bar., Kota Medan, Sumatera Utara 20117, Indonesia",4.5,unknown,unknown,unknown,unknown,unknown
+ChIJYcqJ6RX0aS4R8B7L9zoEkvw,Gelato Secret,"Jl. Kereta Api No.14, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20212, Indonesia",4.8,unknown,unknown,unknown,unknown,unknown
+ChIJNUqupz2OaYgRwMHdVIUX70c,Ice Cream Ria,"Jl. Surabaya No.22C/28, Ps. Baru, Kec. Medan Kota, Kota Medan, Sumatera Utara 20212, Indonesia",4.4,PRICE_LEVEL_MODERATE,unknown,unknown,unknown,unknown
+ChIJF9NugVoxMTARLL3oNrxvclg,Nu Time Medan,"Jl. Bukit Barisan I No.1, Glugur Darat II, Kec. Medan Tim., Kota Medan, Sumatera Utara 20238, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJ_4PWdsgvMTAR-1uUXMi-Fk4,Ice cream terrain mommynad's,"Jalan setiabudi, Komplek taman setiabudi indah Blok A /49 B/C, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20122, Indonesia",3.8,unknown,unknown,unknown,unknown,unknown
+ChIJwVf33hDZEYgR2Sfe4CcNBeU,AULYA ICE CREAM,"no 94 b, Jl. Tuamang No.94, Sidorejo Hilir, Kec. Medan Tembung, Kota Medan, Sumatera Utara 20222, Indonesia",unknown,unknown,unknown,unknown,unknown,unknown
+ChIJTbaqnc0xMTAR3I3ZEMTZSIU,Gelare Ice Cream Caf├â┬® - Sun Plaza,"Sun Plaza, JL Zainal Arifin, No. 7, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJzfGv-dIxMTARzH7QI2JDOWI,Sabass's INDIAN FOOD (MAKANAN INDIA Sabass/Ó«ÜÓ«¬Ó«¥Ó«©Ó«┐Ó«®Ó»ì Ó«çÓ«¿Ó»ìÓ«ñÓ«┐Ó«» Ó«ëÓ«úÓ«ÁÓ»ü),"Jl. Teuku Cik Ditiro No.42, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.4,unknown,True,unknown,unknown,True
+ChIJA6vCUNIxMTARjHYVYE0sbiA,Cahaya Baru Indianfood (Rumah Makan Cahaya Baru/Ó«ÜÓ«òÓ«»Ó«¥ Ó«¬Ó«¥Ó«░Ó»ü Ó«çÓ«¿Ó»ìÓ«ñÓ«┐Ó«» Ó«ëÓ«úÓ«ÁÓ»ü/Jabu Mangan Cahaya Baru),"Jl. Teuku Cik Ditiro No.12/16, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJ8QMHleIxMTARvgyXbwu9yxo,Rosan indian food,"Jl. Kol. Sugiono No.18-12, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",5,unknown,True,unknown,unknown,True
+ChIJ-9E4AKUxMTARNUk-1Z1Eteg,RICH Indian Food,"19, Jl. Teuku Umar No.19, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20152, Indonesia",4.6,unknown,unknown,unknown,True,True
+ChIJJRPmz3RZqDsR1ohNYKemD9M,Abina Biryani - (Ó«àÓ«¬Ó«┐Ó«®Ó«¥ Ó«¬Ó«┐Ó«░Ó«┐Ó«»Ó«¥Ó«úÓ«┐ - Ó«çÓ«¿Ó»ìÓ«ñÓ«┐Ó«» Ó««Ó»üÓ«©Ó»ìÓ«▓Ó«┐Ó««Ó»ì Ó«ëÓ«úÓ«ÁÓ«òÓ«òÓ»ì Ó«òÓ»üÓ«┤Ó»ü),"Sebelah TK Nur Aisyah, Jl. Karya Kasih No.81A, Pangkalan Masyhur, Kec. Medan Johor, Kota Medan, Sumatera Utara 20143, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJCcIte3PqwIcRPF62QsUacpg,Indian restaurant,"Jl. KH. Zainul Arifin No.157/169, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20157, Indonesia",4.3,unknown,unknown,unknown,unknown,True
+ChIJGxBc_UsvMTARweEx6c_kvGA,Hafiz Jees Pakistani Restaurant,"Jl. Gatot Subroto No.24A, Sei Sikambing C. II, CII, Kota Medan, Sumatera Utara 20123, Indonesia",4.5,unknown,True,True,True,True
+ChIJx_I27u4vMTAR9rRvyLWrRwo,Warung Shima Chapati,"East Helvetia, Medan Helvetia, Medan City, North Sumatra, Indonesia",4.9,unknown,True,unknown,unknown,True
+ChIJIX6jz1IvMTARc7IuA-w_Rtg,Martabak Sabass's Indian Food (Ó««Ó«¥Ó«░Ó»ìÓ«ñÓ«¬Ó«òÓ»ì Ó«ÜÓ«¬Ó«¥Ó«©Ó»ì Ó«çÓ«¿Ó»ìÓ«ñÓ«┐Ó«» Ó«ëÓ«úÓ«ÁÓ»ü),"Jl. Setia Budi No.58a, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20154, Indonesia",4.4,unknown,unknown,unknown,unknown,True
+ChIJ44nlbNIxMTARbVH19RuXPdw,Sahara Indian Food (Rumah Makan Sahara/Ó«ÜÓ«╣Ó«¥Ó«░Ó«¥ Ó«çÓ«¿Ó»ìÓ«ñÓ«┐Ó«» Ó«ëÓ«úÓ«ÁÓ»ü),"Jl. Pagaruyung No.6, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20151, Indonesia",3.3,unknown,unknown,True,unknown,True
+ChIJmVBSH86XwoARrw0xn0OW0ro,Bollywood (Ó«¬Ó«¥Ó«▓Ó«┐Ó«ÁÓ»üÓ«ƒÓ»ì,"Jl. Muara Takus No.7, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.3,unknown,True,unknown,True,True
+ChIJg8bk3VIxMTARP3K58HbVGNI,Dapur mimah indian food Ó««Ó»ÇÓ««Ó«¥ Ó«çÓ«¿Ó»ìÓ«ñÓ«┐Ó«» Ó«ëÓ«úÓ«ÁÓ»ü Ó«ÜÓ««Ó»êÓ«»Ó«▓Ó«▒Ó»ê,"Jl. Laksana No.35, Kota Matsum I, Kec. Medan Area, Kota Medan, Sumatera Utara 20211, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJLYLvQPndcC4Rggs5StHn4ac,Dewi Martabak,"GMXQ+M76, Jl. Brigjend Katamso, Kp. Baru, Kec. Medan Maimun, Kota Medan, Sumatera Utara, Indonesia",4,unknown,unknown,unknown,unknown,True
+ChIJQ4RX9-4vMTARPnwmoY7cm1g,GH Corner (GHC) Medan,"Jl. Dr. Mansyur No.84B, Padang Bulan Selayang I, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20153, Indonesia",4.5,unknown,True,unknown,True,True
+ChIJrbUpddMxMTARqvOs0vnkpkM,Koki Sunda,"Jl. Hasanuddin No.1, Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara 20152, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJs9mrhcoxMTAREPUbQbT53BU,"Miramar Restaurant, Medan","Jl. Pemuda No.11 ABC, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4.4,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJOxL_OHLzaS4Rxl3zFCD-X9g,Rumah Makan Pengantin,"Jl. Setia Budi No.60, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20154, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJ3VkPs8sxMTARO-CUXExw20o,Rumah Makan Tabona,"Jl. Mangkubumi No.17, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJAc3E9ao6MTARAeftvc5CUQQ,ALUN - ALUN KULINER INDONESIA,"Jl. Karya Wisata No.26, Pangkalan Masyhur, Kec. Medan Johor, Kota Medan, Sumatera Utara 20143, Indonesia",4.2,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJtS7DHBPxaS4RsebkRg6xmLo,Nusa Indah Rumah Makan,"Jl. Palang Merah No.90, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20212, Indonesia",4.4,unknown,unknown,False,unknown,True
+ChIJqUG4acYvMTARWSccb4HAFU4,Desadesa Resto,"Jl. Setia Budi No.190/12, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20154, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJvTVNd-chLk0Rk3ObbDfRoEM,Garuda Restaurant,"Jl. Palang Merah No.26A, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20151, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJLd08mr4xMTARphLSzN5sLDs,INTERLOKAL,"Gedung Istana Koki, Jl. Teuku Cik Ditiro No.110A, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.7,unknown,True,unknown,True,True
+ChIJqeqFixbxaS4RoeXuRb3bYjU,Restoran Sambalado,"Jl. Stasiun, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.1,unknown,unknown,unknown,unknown,True
+ChIJ1Yhf2sgxMTARtTNsjig34z0,Rumah Makan Windy,"Jl. Jend. Ahmad Yani VII No.17, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.1,PRICE_LEVEL_INEXPENSIVE,unknown,unknown,unknown,True
+ChIJZVGJ4JHxaS4RnlVlIVzCB-Q,Warung Nasi Emak,"HMRF+25M, Petisah Tengah, Medan Petisah, Medan City, North Sumatra, Indonesia",unknown,unknown,unknown,unknown,unknown,unknown
+ChIJnzCx01wlMTARj-LC9coprdk,Rumah Makan Nazwa,"Damai Abadi Pt. (Sei Putih Barat), Jl. Jenderal Gatot Subroto No.202, Sei Putih Bar., Kec. Medan Petisah, Kota Medan, Sumatera Utara 20118, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJW4rCJTcuMTAR0IuV2imT5mo,Mie Aceh Titi Bobrok,"Jl. Setia Budi No.17 D, Sei Sikambing B, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20122, Indonesia",4.3,PRICE_LEVEL_INEXPENSIVE,unknown,unknown,True,unknown
+ChIJwaPyk9oxMTAR60lz1JaiGD8,Rumah Makan Sinabung,"Jl. S. Parman No.50a, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",unknown,unknown,unknown,unknown,unknown,unknown
+ChIJidfbdtUxMTARmhxVrV_UyUg,Rumah Makan Jamin,"Jalan Iskandar Muda #20/89, Babura, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJRzvQ-DUzMTAR8alVhJPqrP8,RUMAH MAKAN MINANG BAGUS,"Jl. Rumah Potong Hewan No.4, M A B A R, Kec. Medan Deli, Kota Medan, Sumatera Utara 20241, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJ_ck9Lb6G9i0RA8VEZwgAXV4,Rumah Makan Anita,"Jl. Surabaya Kelurahan No.43, Ps. Baru, Kec. Medan Kota, Kota Medan, Sumatera Utara 20212, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJRUOKgvdGKi4RrVzTXhfjxOg,RUMAH MAKAN NAYLA,"Jl. Tuasan No.47, Sidorejo Hilir, Kec. Medan Tembung, Kota Medan, Sumatera Utara 20222, Indonesia",4.3,unknown,unknown,unknown,True,True
+ChIJD9SCgOwl1S8RoKo9St5os2Y,RUMAH MAKAN PADANG PANJANG,"Jl. Rakyat No.172, Tegal Rejo, Kec. Medan Perjuangan, Kota Medan, Sumatera Utara 20236, Indonesia",4.2,PRICE_LEVEL_INEXPENSIVE,unknown,False,False,True
+ChIJC5RRJ7jTQIYRwz-yg0wb0Fk,Trattoria,"Jl. Kapten Patimura No.342, Darat, Kec. Medan Baru, Kota Medan, Sumatera Utara 20152, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJ03ano3wxMTAR34yNwmza5IU,KEWIN KITCHEN,"Jl. DR. Cipto No.9, Anggrung, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.3,unknown,True,True,True,True
+ChIJcUJhLxYxMTARLHYoNx0NnFc,Goloso Pasta Pizzeria Medan,"Tengah People & Place, belakang Uniland, HMQJ+2MX, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20212, Indonesia",4.3,unknown,True,True,True,True
+ChIJt84FDb0xMTARNaLcY0RvT0c,Tijili Square,"Jl. Kapten Patimura No.342, Darat, Kec. Medan Tim., Kota Medan, Sumatera Utara 20233, Indonesia",4.5,unknown,True,True,True,True
+ChIJhzpmzl1hZIgRTN1nC1p8eI8,Kedai Pasta,"GMWR+QPQ, Jalan STM Suka Ramai, Sitirejo II, Kec. Medan Amplas, Kota Medan, Sumatera Utara 20146, Indonesia",4,unknown,unknown,unknown,unknown,True
+ChIJUztYJyYXsocRmY-k3jYYJrw,District 10 Restaurant & Bar,"Forum Nine, Jl. Imam Bonjol No.9, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.3,PRICE_LEVEL_EXPENSIVE,True,True,True,True
+ChIJ97mtn415ToYRCXExw-vox-c,El├óÔé¼Ôäós Pizzeria,"Jl. Dame No.18, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.7,unknown,True,False,True,True
+ChIJw1ibqjouMTARFcO0rc0Mxzc,Pizza Hut Restoran - Plaza Medan Fair,"Plaza Medan Fair Lt.2 /B2-26, Jl. Gatot Subroto No.30, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20113, Indonesia",3.9,PRICE_LEVEL_MODERATE,True,unknown,True,True
+ChIJPcXH64CEt4cRLqOvaER2qok,Pizza Hut Restoran,"Jl. Setiabudi Abadi I No.203, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20132, Indonesia",4.5,PRICE_LEVEL_MODERATE,False,False,True,True
+ChIJPcXH64CEt4cRLqOvaER2qok,Pizza Hut Restoran,"Jl. H. Adam Malik No.15, Silalas, Kec. Medan Bar., Kota Medan, Sumatera Utara 20113, Indonesia",4.4,PRICE_LEVEL_MODERATE,False,True,True,True
+ChIJpWapHScxMTARsrVBrovrgP0,AL DENTE PASTA MEDAN,"Jl. KL. Yos Sudarso Komp. Mega Glugur Mas No.10, Glugur Kota, Kec. Medan Bar., Kota Medan, Sumatera Utara 20115, Indonesia",4.7,unknown,True,unknown,True,True
+ChIJma9WlbExMTARbmyCsqGrSik,Pizza Hut Restoran - Thamrin Plaza,"Thamrin Plaza Lt. Dasar Jalan Thamrin No. 75 R, Sei Rengas II, Kec. Medan Area, Kota Medan, Sumatera Utara 20214, Indonesia",4.4,PRICE_LEVEL_MODERATE,False,False,True,True
+ChIJe-DycAAvMTAR-IZd7lzYIJE,Pizza Panjang Towil,"GMH7+56X, Jl. Karya Wisata, Gedung Johor, Kec. Medan Johor, Kota Medan, Sumatera Utara 20146, Indonesia",3.7,unknown,unknown,unknown,unknown,True
+ChIJwTkonu6wD4gRJ1K6oDZacGE,"Chung Gi Wa, Korean BBQ","Jl. Imam Bonjol No.24 C/D, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20236, Indonesia",4.5,unknown,True,False,True,True
+ChIJHZ322Z4xMTARgyPzSIdr9Jw,Galmaegi Korean BBQ Restaurant,"Jl. KH. Zainul Arifin No.122, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20151, Indonesia",4.4,unknown,True,unknown,unknown,True
+ChIJ8U0rEmIsDogROcBPM_7xIL4,DaeBak Korean BBQ Restaurant,"T1&T2 Jati Junction, Jl. Timor, Perintis, Kec. Medan Tim., Kota Medan, Sumatera Utara 20236, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJCV2E0dMhyIkRfVojnOIVFbI,Kimbab Nara,"Jalan Brigjen Katamso Dalam No.56 E, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJ4bTLtUQZ2jERMmFdY1vUeFs,Sagye,"Komplek Centrium, Jl. Brigjend Katamso No.9, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4,unknown,True,unknown,unknown,True
+ChIJ7yM4xw73aS4RIqsC8PXNeeU,Patbingsoo Korean Dessert House,"Komplek Multatuli Blok FF No. 32-33, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJlect_p4xMTARhx1-j_I36LA,Magal Korean BBQ Cambridge City Square,"Cambridge City Square, Lantai G (Dasar, Petisah Tengah, Medan Petisah, Medan City, North Sumatra, Indonesia",4.2,unknown,True,False,True,True
+ChIJlzh8-lx9bIcRwMgyO9sRsWM,Angry Korean Bbq,"Jl. Airlangga No.11E, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,False,False,True
+ChIJiwP6i7oZ2jERiztHyEj4IOk,Jinjja Chicken,"Jl. Cut Mutia No.1, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20151, Indonesia",4.3,unknown,True,False,True,True
+ChIJGxGC3f4VsocRq2yjQ26gpU8,JjangJjang Bunsik,"Jl. Sampul Residence no A9, Sei Putih Bar., Kec. Medan Petisah, Kota Medan, Sumatera Utara 20118, Indonesia",5,unknown,True,unknown,unknown,True
+ChIJiwP6i7oZ2jERiztHyEj4IOk,Jinjja Chicken,"Centre Point 2nd Floor 04, Gang Buntu, Medan Timur, Medan City, North Sumatra 20232, Indonesia",4.1,unknown,True,unknown,unknown,True
+ChIJhU9lzu8xMTARJFQbmxzg5BY,GAPYEONG Korean BBQ HM Joni,"Jl. HM. Joni No.41, Teladan Bar., Kec. Medan Area, Kota Medan, Sumatera Utara 20216, Indonesia",4.1,unknown,True,unknown,True,True
+ChIJR55TpAikEmsRO77ohxm-ql0,Se Jong Korean Food Restaurant,"Komplek Cemara Asri, Jl. Boulevard Timur No.105, Medan Estate, Kec. Percut Sei Tuan, Kabupaten Deli Serdang, Sumatera Utara 20221, Indonesia",4.8,unknown,True,unknown,unknown,True
+ChIJsU2nQ7QxMTAR0vFGTaSNfX0,Omma Recipe,"Jl. Semarang No.92, Ps. Baru, Kec. Medan Kota, Kota Medan, Sumatera Utara 20212, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,unknown,True
+ChIJQRIJQLSp1TER6FvanM-Iz_I,Gapyeong Korean BBQ,"Jl. Setia Budi Kel No.10 C, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20119, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJJ8aMMeYxMTARiRZXV-F5XYk,Eatsy Kitchen Healthy Catering Medan,"Komplek Kejaksaan, Jl. Stella I No.28, Simpang Selayang, Kec. Medan Tuntungan, Kota Medan, Sumatera Utara 20135, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJf0rJvK4xMTAR3yCU8jiOSQg,CATERING LESSSALT MEDAN,"Jl. Aipda KS Tubun No.2, Pandau Hulu I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia",4.9,unknown,unknown,unknown,unknown,unknown
+ChIJ2yMbs9AED4gRzeLKL5keCgA,Catering bulanan Simple Food,"Dibelakang komp. MMTC pancing, Jl. Selamat Ketaren Jl. Teratai Dalam, Kenangan Baru, Kec. Percut Sei Tuan, Kota Medan, Sumatera Utara 20371, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJa5ebiDUwMTARioQsF2jeXcw,Catering medan,"Gg. Bersama, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20154, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJkf-jmFVeXIYRjmsdfvxJar8,Tip Top Restaurant,"Jl. Jend. Ahmad Yani No.92 A-B, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20212, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJvxQaTlQxMTARQDKbrAe-K4E,Rantangan Medan,"Jalan Letda Sujono, Gg. Bali Dalam No.2, Bandar Selamat, Kec. Medan Tembung, Kota Medan, Sumatera Utara 20223, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJsaYUj_aEt4cR0AJSouUUoZM,KFC,"Jl. Sisingamangaraja Kelurahan No.41, Sitirejo III, Kec. Medan Kota, Kota Medan, Sumatera Utara 20216, Indonesia",4.4,PRICE_LEVEL_MODERATE,unknown,True,True,True
+ChIJS1m-AVUwMTARfnvQ15LtTJg,Rumah Blepots,"Jl. Medan Area Selatan No.66, Sukaramai I, Kec. Medan Area, Kota Medan, Sumatera Utara 20227, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJ35xlwQjAKhMRmXv94eah9ac,Sushi Mentai,"Jl. DR. Cipto No.2, Anggrung, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJEfwsALAxMTARJnaJpYPiMXs,Niang Mama,"Jl. Pekanbaru No.28, Pandau Hulu I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia",4.5,unknown,True,True,True,True
+ChIJV3-mOgAvMTARyVerHt9ohp4,Moms catering medan,"Jl. Danau Singkarak, Sei Agul, Kec. Medan Bar., Kota Medan, Sumatera Utara 20127, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJ2aXaDMrqwIcRCmkagb2mHU8,Sawasdee Thai Restaurant,"Jl. Multatuli Raya, Blok-FF No.36-37, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJsazVbdsxMTARtF_wG04576Q,Restoran Garuda - Adam Malik,"Jl. H. Adam Malik D/H Glugur ByPass No.14, Silalas, Kec. Medan Bar., Kota Medan, Sumatera Utara 20114, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJvTVNd-chLk0Rk3ObbDfRoEM,Garuda Restaurant,"Jl. Palang Merah No.26A, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20151, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJgXqWX8gxMTARH-xlKNLRd3c,Jajananmedan,"Jl. Gandhi No.79, Sei Rengas I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20214, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJhYvbf8ExMTARRYf52NSroDA,Yurich martabak & kebab House,"Jl. Putri Merak Jingga No.8H 8i, Kesawan, Medan Barat, Medan City, North Sumatra 20111, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,unknown,True
+ChIJ4ZWJgMcxMTARlwUaVf3iNwM,Mie Zhou (├ÑÔÇÿ┬¿├Ñ┬«┬Â├®┬║┬Á - Zhou's Noodles),"Jalan Timor No.10 TT/47, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20232, Indonesia",4.6,PRICE_LEVEL_MODERATE,unknown,unknown,unknown,True
+ChIJ01TKUnzQ2IcRm7fVfILnEnw,Ji Long Chinese Restaurant,"Grand City Hall Medan, JL.Balai Kota ,Medan Kota 20112, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20149, Indonesia",4.6,unknown,True,False,True,True
+ChIJfYMdsrUxMTARFknig0qI7do,Nasi Ayam HAINAM 10 SP,"Jl. Selat Panjang No.10, RT.02, Ps. Baru, Kec. Medan Kota, Kota Medan, Sumatera Utara 20212, Indonesia",4.5,unknown,unknown,unknown,unknown,True
+ChIJ9RzyWYSVEkcRfxNkRwQ3Fqs,Kuliner,"Gg. Pendidikan No.71, Ps. Merah Tim., Kec. Medan Area, Kota Medan, Sumatera Utara 20217, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJJdVBYUEayUwRU6owVWWwIbI,HackEat!,"Jalan Palang Merah Ruko Royal Residence No: 10 - 11, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJsXE3nKsxMTAR3Jye28uxpZo,RM Gek Lan 181,"Gg. Baru Jl. Berlian Sari No.181, Kedai Durian, Kec. Medan Johor, Kota Medan, Sumatera Utara 20145, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,False,False,True
+ChIJ6WblKMkxMTAR-v-JcK5Uz78,Rumah Makan David,"Jl. Hindu No.3, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20231, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,unknown,True
+ChIJ03ano3wxMTAR34yNwmza5IU,KEWIN KITCHEN,"Jl. DR. Cipto No.9, Anggrung, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.3,unknown,True,True,True,True
+ChIJAQAAADXH1C8Rff2qhMD6iyM,Owner Rumah Food Kita Kita Padang/ Gofood Grabfood Ojekfood,"Jl. Selamat No.11-13, Binjai, Kec. Medan Denai, Kota Medan, Sumatera Utara 20228, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJJ8aMMeYxMTARiRZXV-F5XYk,Eatsy Kitchen Healthy Catering Medan,"Komplek Kejaksaan, Jl. Stella I No.28, Simpang Selayang, Kec. Medan Tuntungan, Kota Medan, Sumatera Utara 20135, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJG8yh-youMTARY-4PETbrKfU,KOMPAK MEDAN Resto N Cafe,"Jl. Sei Batang Serangan No.93, Babura, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",5,PRICE_LEVEL_INEXPENSIVE,True,True,True,True
+ChIJsXvSZdIxMTARiAWs6zieId4,RM Jenggala,"Jl. Jenggala No.36, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.6,unknown,unknown,unknown,False,True
+ChIJFwYXUYqEt4cRqoP34n5Z_q8,Fast Food Restaurant,"Jl. Datuk Kabu No.58, Denai, Kec. Medan Denai, Kota Medan, Sumatera Utara 20371, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJLdf0JFYwMTARr9HraMdMDAg,Rumah Makan Family Kita,"Jl. Arief Rahman Hakim No.143, Tegal Sari III, Medan, Kota Medan, Sumatera Utara 20216, Indonesia",4.3,unknown,unknown,False,unknown,True
+ChIJHTc68h4uMTARsu6iZTebGyM,Rumah Makan AIK,"Jl. Danau Singkarak Kelurahan No.12, Sei Agul, Kec. Medan Bar., Kota Medan, Sumatera Utara 20117, Indonesia",4.1,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJQ5pQUENryYcRqyETTNK5-K0,Jade Restaurant,"JW Marriott Medan, Jl. Putri Hijau No.10, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.5,unknown,True,False,True,True
+ChIJA6vCUNIxMTARjHYVYE0sbiA,Cahaya Baru Indianfood (Rumah Makan Cahaya Baru/├á┬«┼í├á┬«ÔÇó├á┬«┬»├á┬«┬¥ ├á┬«┬¬├á┬«┬¥├á┬«┬░├á┬»┬ü ├á┬«ÔÇí├á┬«┬¿├á┬»┬ì├á┬«┬ñ├á┬«┬┐├á┬«┬» ├á┬«ÔÇ░├á┬«┬ú├á┬«┬Á├á┬»┬ü/Jabu Mangan Cahaya Baru),"Jl. Teuku Cik Ditiro No.12/16, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJqdCQgOMl34cROqaaJBkM58Y,Almo,"Jl. Imam Bonjol No.56, Suka Damai, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20157, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJHwbb198xMTARBn8KHlYirQo,Rumah Makan 88C,"Jl. Sekip No.88C, Sei Putih Tim. I, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",4.6,PRICE_LEVEL_INEXPENSIVE,unknown,False,unknown,True
+ChIJ-Zv2D7MxMTARIoMW_cQzAwk,Laksa Medan Rumah Makan,"Jl. Yose Rizal No.50/108, Sei Rengas I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia",4.3,unknown,unknown,unknown,unknown,True
+ChIJ2aXaDMrqwIcRCmkagb2mHU8,Sawasdee Thai Restaurant,"Jl. Multatuli Raya, Blok-FF No.36-37, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJbUpIXlolMTARMfl2szpLfrQ,RUMAH MAKAN KELUARGA,"Jalan Jamin Ginting No. 435, Padang Bulan, Kwala Bekala, Kec. Medan Johor, Kota Medan, Sumatera Utara 20131, Indonesia",4.4,unknown,unknown,False,False,True
+ChIJs9mrhcoxMTAREPUbQbT53BU,"Miramar Restaurant, Medan","Jl. Pemuda No.11 ABC, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4.4,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJ01TKUnzQ2IcRm7fVfILnEnw,Ji Long Chinese Restaurant,"Grand City Hall Medan, JL.Balai Kota ,Medan Kota 20112, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20149, Indonesia",4.6,unknown,True,False,True,True
+ChIJh3UEsPJiz4cRmO7kNCj1g9g,Lebanon Restaurant,"Petisah Tengah, Medan Petisah, Medan City, North Sumatra, Indonesia",4.5,unknown,True,unknown,True,True
+ChIJq6qqqtUvMTAR1UbjRddsMYM,Al Jazeerah Restaurant & Cafe Medan,"Jl. K.H. Wahid Hasyim No.66, Babura, Kec. Medan Baru, Kota Medan, Sumatera Utara 20154, Indonesia",4.4,unknown,True,unknown,True,True
+ChIJe5beFwgxMTARm9-1MBM4bFM,Almasqa Resto | Kuliner Timur Tengah,"Jl. Arief Rahman Hakim, Sukaramai I, Kec. Medan Area, Kota Medan, Sumatera Utara 20217, Indonesia",4.6,unknown,True,unknown,unknown,True
+ChIJ7cSrJ6tM34cRnbfrlBQNy7A,The Upper Level,"Jl. Taruma No.52 Level 2, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.7,unknown,True,False,True,unknown
+ChIJLd08mr4xMTARphLSzN5sLDs,INTERLOKAL,"Gedung Istana Koki, Jl. Teuku Cik Ditiro No.110A, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.7,unknown,True,unknown,True,True
+ChIJwdM51QfzjIgRhFkBleBC-DA,The Edge Restaurant,"Jl. S. Parman No.217, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",4.5,unknown,True,True,True,True
+ChIJ85CC0KcvMTARnQ3BsS0U5lw,Higher Steps Dining,"Jl. Sunggal, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20122, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJ03ano3wxMTAR34yNwmza5IU,KEWIN KITCHEN,"Jl. DR. Cipto No.9, Anggrung, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.3,unknown,True,True,True,True
+ChIJ8e_AIJ57yIcRg-81HRR27LU,Orchid Restaurant,"Jl. Sutomo No.1, Perintis, Kec. Medan Tim., Kota Medan, Sumatera Utara 20235, Indonesia",4.3,unknown,True,unknown,True,True
+ChIJ4SWUxGhZwokRjXIRMaWgn9I,O'Flahertys,"Jl. Komodor Udara Adi Sucipto No. 8 U-V, Medan Polonia, Suka Damai, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20219, Indonesia",4.4,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJQ4RX9-4vMTARPnwmoY7cm1g,GH Corner (GHC) Medan,"Jl. Dr. Mansyur No.84B, Padang Bulan Selayang I, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20153, Indonesia",4.5,unknown,True,unknown,True,True
+ChIJgdkD2b7stocRbVjMGALzEW4,Prime Steakhouse,"JW Marriott Hotel, Jl. Putri Hijau No.10 Lantai LG, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.6,unknown,True,unknown,True,False
+ChIJqUG4acYvMTARWSccb4HAFU4,Desadesa Resto,"Jl. Setia Budi No.190/12, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20154, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJs9mrhcoxMTAREPUbQbT53BU,"Miramar Restaurant, Medan","Jl. Pemuda No.11 ABC, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4.4,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJ2aXaDMrqwIcRCmkagb2mHU8,Sawasdee Thai Restaurant,"Jl. Multatuli Raya, Blok-FF No.36-37, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJQ-27X9IxMTARMRFoCdhC_bY,Socrates Vegan,"Jl. Airlangga No.14 - C, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,unknown,True,True
+ChIJuZpUlDcxMTARiUjy6PGtEk4,Sedap Nusantara Resto,"Jl. Multatuli No.30abc, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.2,unknown,True,unknown,unknown,True
+ChIJkf-jmFVeXIYRjmsdfvxJar8,Tip Top Restaurant,"Jl. Jend. Ahmad Yani No.92 A-B, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20212, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJ37FS9Nw7dYgRLFQQWKd_cmE,Taipan Restaurant,"Capital Building, Jl. Putri Hijau No.1A Lantai 1, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.6,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJHepGWVLTD4gRq7FdjxR7boM,BISTRONOMIX,"Jl. Perintis Kemerdekaan, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20236, Indonesia",4.6,unknown,True,True,True,False
+ChIJwXNmlIUxMTARqLjuFDBsyaM,Nasi Biryani & Shawarma Ummi Maryam,"Jl. Suka Sehat No.2a, Suka Maju, Kec. Medan Johor, Kota Medan, Sumatera Utara 20217, Indonesia",4.7,PRICE_LEVEL_MODERATE ,True,unknown,unknown,unknown
+ChIJNbRl-57kuocR6PS90U7zVxE,MEXICAN KEBAB,"HMR3+Q75, Jl. Ayahanda, Sei Putih Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20113, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJ2UxS47WJK4gR8VBNk7FKnao,EL BORRITOZ CAMBRIDGE,"Cambridge City Square, Jl. S. Parman No.217, Petisah Tengah, Medan Petisah, Medan City, North Sumatra 20151, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJw9KxodzswIcRrLBqbgHy4Xc,The Onyx,"Jl. Gatot Subroto No.395, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20119, Indonesia",5,unknown,True,unknown,True,True
+ChIJIfPmymwzMTARZZPIAlhWtbE,EL BORRITOZ CEMARA ASRI,"JMPX+756, Bundaran Cemara Asri, Medan Estate, Kec. Percut Sei Tuan, Kabupaten Deli Serdang, Sumatera Utara 20371, Indonesia",4.3,unknown,unknown,unknown,unknown,True
+ChIJSaDqFOIvMTARbF1LAGt86Hw,Warkop.Pablo,"Jl. Sei Serayu No.115, Babura Sunggal, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20154, Indonesia",4.3,unknown,unknown,unknown,unknown,unknown
+ChIJPcXH64CEt4cRLqOvaER2qok,Pizza Hut Restoran,"Jl. Jenderal Besar A.H. Nasution, Pangkalan Masyhur, Kec. Medan Johor, Kota Medan, Sumatera Utara 20143, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,unknown,True,True
+ChIJ97mtn415ToYRCXExw-vox-c,El├óÔé¼Ôäós Pizzeria,"Jl. Dame No.18, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.7,unknown,True,False,True,True
+ChIJk3-uNgAxMTARBYBwft1tiE8,Mastercheese pizza medan,"Jl. Pemuda No.10, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.8,unknown,True,unknown,unknown,True
+ChIJbbjx748Tt4cRJTARdKWT2RQ,Pizza Hut Restoran - Sisingamangaraja,"Jl. Sisingamangaraja No.62, Teladan Bar., Kec. Medan Kota, Kota Medan, Sumatera Utara 20215, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJPcXH64CEt4cRLqOvaER2qok,Pizza Hut Restoran,"Jl. Gunung Krakatau No.24, Pulo Brayan Darat II, Kec. Medan Tim., Kota Medan, Sumatera Utara 20237, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJPcXH64CEt4cRLqOvaER2qok,Pizza Hut Restoran,"Jl. Gajah Mada No.19, Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara 20151, Indonesia",4.4,PRICE_LEVEL_MODERATE,False,unknown,True,True
+ChIJPcXH64CEt4cRLqOvaER2qok,Pizza Hut Restoran,"Jl. H. Adam Malik No.15, Silalas, Kec. Medan Bar., Kota Medan, Sumatera Utara 20113, Indonesia",4.4,PRICE_LEVEL_MODERATE,False,True,True,True
+ChIJPcXH64CEt4cRLqOvaER2qok,Pizza Hut Restoran,"Jl. Setiabudi Abadi I No.203, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20132, Indonesia",4.5,PRICE_LEVEL_MODERATE,False,False,True,True
+ChIJPcXH64CEt4cRLqOvaER2qok,Pizza Hut Restoran,"Jl. Ring Road, Sunggal, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20122, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJ5cd07McxMTARSNlA7dxQvc0,Pizza Hut Restoran - Center Point Medan,"Mall, Centre Point, Jl. Jawa No.1 LG-34, Gang Buntu, Medan Timur, Medan City, North Sumatra 20236, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,unknown,True,True
+ChIJibj4_WoxMTARvlDGTbguAUs,Pizza Hut Pancing Medan,"Komplek MMTC, Jl. Pancing Ruko No.23 - 26, Bantan Tim., Kec. Medan Tembung, Kota Medan, Sumatera Utara 20222, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJma9WlbExMTARbmyCsqGrSik,Pizza Hut Restoran - Thamrin Plaza,"Thamrin Plaza Lt. Dasar Jalan Thamrin No. 75 R, Sei Rengas II, Kec. Medan Area, Kota Medan, Sumatera Utara 20214, Indonesia",4.4,PRICE_LEVEL_MODERATE,False,False,True,True
+ChIJ03ano3wxMTAR34yNwmza5IU,KEWIN KITCHEN,"Jl. DR. Cipto No.9, Anggrung, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.3,unknown,True,True,True,True
+ChIJw1ibqjouMTARFcO0rc0Mxzc,Pizza Hut Restoran - Plaza Medan Fair,"Plaza Medan Fair Lt.2 /B2-26, Jl. Gatot Subroto No.30, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20113, Indonesia",3.9,PRICE_LEVEL_MODERATE,True,unknown,True,True
+ChIJjSebTv8xMTAR-EXVDdjVEp8,PIZZA Raissa,"Jl. Karya No.247, Karang Berombak, Kec. Medan Bar., Kota Medan, Sumatera Utara 20214, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,unknown,True,True
+ChIJUztYJyYXsocRmY-k3jYYJrw,District 10 Restaurant & Bar,"Forum Nine, Jl. Imam Bonjol No.9, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.3,PRICE_LEVEL_EXPENSIVE,True,True,True,True
+ChIJcUJhLxYxMTARLHYoNx0NnFc,Goloso Pasta Pizzeria Medan,"Tengah People & Place, belakang Uniland, HMQJ+2MX, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20212, Indonesia",4.3,unknown,True,True,True,True
+ChIJQba7YnglMTARS8T9O4FpjYE,Pizza Oei and Pattiserie,"Komplek Setiabudi Raya, Jl. Setia Budi No.11 blok B, Simpang Selayang, Kec. Medan Tuntungan, Kota Medan, Sumatera Utara 20135, Indonesia",4.5,unknown,unknown,unknown,unknown,True
+ChIJOyK09JDxtocRk3bjUQgTHxQ,FRY PIZZA MINI,"HPC2+R9X, Jl. Megawati, Ps. Merah Tim., Kec. Medan Area, Kota Medan, Sumatera Utara 20215, Indonesia",4.4,unknown,unknown,True,unknown,True
+ChIJdTeSrFG_QIYRo6crx-6ZAmI,Veganza House pizza,"Jl. Mustafa No.68 A, Pulo Brayan Darat I, Kec. Medan Tim., Kota Medan, Sumatera Utara 20238, Indonesia",4.6,unknown,True,unknown,unknown,True
+ChIJ4Ru2Y8svMTARp9vrJ4yRotA,Warung Ramen So Joy,"Jl. Setia Budi No.55 C, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20122, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJ1xvRu8svMTAR1dFVLC4trhU,kakata ramen,"Jl. Setia Budi No.69D, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20632, Indonesia",4.5,unknown,unknown,unknown,unknown,True
+ChIJZ_2ePhwtDogRNS0ykoAYcJ0,Daifuku Ramen,"Jl. S. Parman No.105b, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",3.5,unknown,True,unknown,unknown,True
+ChIJHd2ydWXttocRa69nQaaCPw8,Ramen,"Jl. Taruma No.31, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJ7QZHXV0xMTARDmcwKm4KPF4,RamenYA! Mall Centre Point Medan,"HMRJ+WG6, Jl. Jawa, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara, Indonesia",4.4,unknown,unknown,unknown,True,True
+ChIJMwHGGe_xaS4RV53QUMiYeYA,Ramen Kakek Jepang,"GMJR+HVC, Jl. STM Jl. Suka Agung kanal, ujung, Kec. Medan Johor, Kota Medan, Sumatera Utara 20146, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJ6Qlkvi8xMTARbFmptc-M050,1950 Ramen,"Jl. Ismailiyah No.49, Kota Matsum I, Kec. Medan Area, Kota Medan, Sumatera Utara 20211, Indonesia",4.2,unknown,unknown,unknown,unknown,True
+ChIJS-_Kg4YzMTAR_X1fAFcOqro,Sasini Ramen,"Jl. Bilal Ujung No.216, Indra Kasih, Kec. Medan Tembung, Kota Medan, Sumatera Utara 20221, Indonesia",4.6,unknown,True,True,unknown,True
+ChIJIw8c9_o_yIYR95tThXPvYFs,Orizuru Ramen,"Jl. S. Parman No.248A, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.5,unknown,True,True,unknown,True
+ChIJC3rVdJ3jvi0Rbco4JpRgDmg,GOKANA Ramen & Teppan,"Sun Plaza, Jl. KH. Zainul Arifin No.53 lantai 4, Madras Hulu, Medan Polonia, Medan City, North Sumatra 20151, Indonesia",4.2,PRICE_LEVEL_MODERATE,True,unknown,True,True
+ChIJh6377KRK3YARTdHl_d6sU3Y,Hakata Ikkousha,"Jl. Taruma No.80-82, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20151, Indonesia",4.7,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJocAkO86xD4gRPpPtFtuR6Lk,Ramenlab,"Jl. Karya No.108, Sei Agul, Kec. Medan Bar., Kota Medan, Sumatera Utara 20235, Indonesia",4.8,unknown,True,unknown,unknown,True
+ChIJEWJXD77amoARxLiyktBK_n8,Kansai ramen,"Gg. Pipa No.I, Gedung Johor, Kec. Medan Johor, Kota Medan, Sumatera Utara, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJaWvJ2lIxMTARmzyhNYgksYc,RamenYA! Sun Plaza Medan,"HMJC+PJM, Jl. KH. Zainul Arifin, Petisah Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara, Indonesia",4.7,unknown,unknown,unknown,unknown,True
+ChIJ07H1Yl5OqEcRtiJnf1c3Ptk,HAKORAMEN,"Jl. Suka Ikhlas No.7, Suka Maju, Kec. Medan Johor, Kota Medan, Sumatera Utara 20217, Indonesia",4.7,unknown,unknown,unknown,unknown,True
+ChIJi0v768cxMTARV1Me1uQTvkI,Marutama Ra - Men & Nabe,"Lantai 1 Mall Centre Point, Jl. Jawa, Gang Buntu, Medan Timur, Medan City, North Sumatra 20236, Indonesia",4.5,unknown,True,False,True,True
+ChIJ15jCTuYzMTARmH5evfWaCh0,Orizuru Ramen J-City,"Jl. J City Blok B 16, Pangkalan Masyhur, Kec. Medan Johor, Kota Medan, Sumatera Utara 20146, Indonesia",4.7,unknown,True,unknown,unknown,True
+ChIJXbwgCgcxMTARN65D-OLK7eY,Juro ramen,"Jl. Kumango No.13, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20212, Indonesia",4.9,unknown,True,False,True,True
+ChIJa4Y87QHPTYYR4UjpgMJFZc4,Kuroiki Ramen Bar,"Jl. Orion No.58, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",4.7,unknown,True,unknown,True,True
+ChIJqZM3nxMxMTAReWHGLoRHE8I,Jozu Eats,"Jl. Bima Sakti No.16, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",4.6,unknown,True,unknown,unknown,True
+ChIJrbUpddMxMTARqvOs0vnkpkM,Koki Sunda,"Jl. Hasanuddin No.1, Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara 20152, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJs9mrhcoxMTAREPUbQbT53BU,"Miramar Restaurant, Medan","Jl. Pemuda No.11 ABC, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4.4,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJyygHdBouMTAReDqFVw402R8,Lembur Kuring,"Jl. T. Amir Hamzah No.85, Helvetia Tim., Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20124, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJqUG4acYvMTARWSccb4HAFU4,Desadesa Resto,"Jl. Setia Budi No.190/12, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20154, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJXaUAQbYxMTARSfeqs2KYqkg,Restoran Ria,"Jl. Letjen MT. Haryono No. 11-15, Ps. Baru, Kec. Medan Kota, Kota Medan, Sumatera Utara 20212, Indonesia",4.6,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJQ5pQUENryYcRqyETTNK5-K0,Jade Restaurant,"JW Marriott Medan, Jl. Putri Hijau No.10, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.5,unknown,True,False,True,True
+ChIJ01TKUnzQ2IcRm7fVfILnEnw,Ji Long Chinese Restaurant,"Grand City Hall Medan, JL.Balai Kota ,Medan Kota 20112, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20149, Indonesia",4.6,unknown,True,False,True,True
+ChIJkf-jmFVeXIYRjmsdfvxJar8,Tip Top Restaurant,"Jl. Jend. Ahmad Yani No.92 A-B, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20212, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJf2ChD88xMTARmyPLaycMwRg,Wisma Benteng Restaurant,"Jl. Kapten Maulana Lubis No.6, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20236, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJ37FS9Nw7dYgRLFQQWKd_cmE,Taipan Restaurant,"Capital Building, Jl. Putri Hijau No.1A Lantai 1, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.6,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJu-aHgN8xMTARSsNj___fiU8,OnDo Grill Batak,"Jl. Pabrik Tenun No.45, Sei Putih Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20118, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,True,True,True
+ChIJvTVNd-chLk0Rk3ObbDfRoEM,Garuda Restaurant,"Jl. Palang Merah No.26A, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20151, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJ3VkPs8sxMTARO-CUXExw20o,Rumah Makan Tabona,"Jl. Mangkubumi No.17, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJVRivM9MxMTARYKH8CGz_xZ4,Restoran Pohon Pisang,"Komplek The Crown, Jl. S. Parman No.16-17 Blok A, Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJUztYJyYXsocRmY-k3jYYJrw,District 10 Restaurant & Bar,"Forum Nine, Jl. Imam Bonjol No.9, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.3,PRICE_LEVEL_EXPENSIVE,True,True,True,True
+ChIJMYLccuDISYYR4dkzQFXH8f4,Jumbo Sea Food Restaurant,"Jalan Putri Hijau No.8ABCD, Jl. Putri Hijau Baru, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20236, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJ-0Xl0ikxMTARJhcP1jrqrc0,Radisson Medan - The 7R Restaurant,"Jl. H. Adam Malik No.5, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20114, Indonesia",4.3,unknown,True,True,True,True
+ChIJXautNvXsyjER6zPQoZbk08w,Restoran Simpang Tiga,"Jl. Mongonsidi No.26, Polonia, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,unknown,True,True
+ChIJ6WblKMkxMTAR-v-JcK5Uz78,Rumah Makan David,"Jl. Hindu No.3, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20231, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,unknown,True
+ChIJ2aXaDMrqwIcRCmkagb2mHU8,Sawasdee Thai Restaurant,"Jl. Multatuli Raya, Blok-FF No.36-37, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJCYWgEkgxMTARJjyxPvHN1TQ,Liang Sandwich Bar (Centre Point Medan),"LG Floor, Centre Point, Gang Buntu, Medan Timur, Medan City, North Sumatra 20232, Indonesia",3.7,unknown,unknown,unknown,unknown,unknown
+ChIJe-59QcQZBogRoeUutEZfsPs,Liang Sandwich Bar,"Jl. KH. Zainul Arifin No.7, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20152, Indonesia",3.8,unknown,unknown,unknown,unknown,True
+ChIJIx5Rl2kvMTARsjCTJssIxU8,Panel Sandwich medan,"Jl. Kasuari, no71A, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20122, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJKVMevWAxMTARwo2JmnSntM8,Semanggi Fusion,"Jl. Samanhudi No.1A, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJJ9lrEI4vMTAR8uA7A0u3Bu0,MINBAR Roti Bakar Mozarella,"Gg. Sehat No.14a, Padang Bulan Selayang I, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20153, Indonesia",4.5,unknown,True,True,True,True
+ChIJMYLccuDISYYR4dkzQFXH8f4,Jumbo Sea Food Restaurant,"Jalan Putri Hijau No.8ABCD, Jl. Putri Hijau Baru, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20236, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJ1ULurQwyMTARwecUcCtP-zY,Jambul Seafood,"Jl. DR. Cipto No.8, Anggrung, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,unknown,True
+ChIJza5vQ64xMTARzdLzvjjfSc0,Happy Seafood Medan,"Jl. Bakaran Batu No.13, Sei Rengas II, Kec. Medan Area, Kota Medan, Sumatera Utara 20211, Indonesia",4.4,PRICE_LEVEL_INEXPENSIVE,True,True,False,True
+ChIJr5gap-YxMTARqyEDPZi5r2E,KAMPOENG NELAYAN seafood restaurant,"Jl. Prof. H. M. Yamin No.36a, Sidodadi, Kec. Medan Tim., Kota Medan, Sumatera Utara 20237, Indonesia",4.3,unknown,True,unknown,True,True
+ChIJqVEFcskxMTARsFK5C4bGwWg,Radja Laoet,"Jl. Kol. Sugiono No.3B, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJ89NmJ3Z2Oy4ROLZQD5NA_xY,Hawwi Sari Laut,"Jl. Orion No.81 - 83, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,False,unknown,True
+ChIJP6DRyy4wMTARdYvA1H7j4F0,Pondok Jimbaran,"Jl. Babura Baru No.47, Darat, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",4.4,PRICE_LEVEL_EXPENSIVE,True,True,True,True
+ChIJg6UbWS7dQIYRVzNIYOqsBX0,Umi Seafood,"Jl. Teuku Umar No.23, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.6,PRICE_LEVEL_MODERATE,False,False,False,unknown
+ChIJQ0JsuayUaS4RZUOMPn2DBkg,Sondoro Seafood,"Singapore Station, Jl. Brigjend Katamso, Sei Mati, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20215, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJc6lVNq4vMTARxIM8MwhZf14,Asoka Corner,"Asam Kumbang, Medan Selayang, Medan City, North Sumatra 20133, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJ60IlbS6-QIYRW7GLDTM0jSk,Grand Maximum Seafood Restaurant,"Jl. Putri Merak Jingga No.2D, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20236, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJAY9IgMExMTARXu913kec3y4,Sari Laut Nelayan,"Jl. Putri Merak Jingga C-D No.8, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.6,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJazbHoqAxMTAR5BB9wj8hLTM,RM Seafood Haji Amin,"Jl. Pahlawan, Pahlawan, Kec. Medan Perjuangan, Kota Medan, Sumatera Utara 20222, Indonesia",4.6,unknown,True,unknown,unknown,True
+ChIJVTQsvMcxMTARNvrLkN7ommI,Fish & Co - Centre Point Medan,"Gang Buntu, Medan Timur, Medan City, North Sumatra 20232, Indonesia",4.5,unknown,True,False,True,True
+ChIJKzYnfawxMTARbmajexgETzY,Mei Seafood,"Jl. Sabaruddin No. 36 C-D, Sei Rengas Permata, Medan Area, Sei Rengas Permata, Kec. Medan Area, Kota Medan, Daerah Khusus Ibukota Jakarta, Sei Rengas Permata, Medan Area, Medan City, North Sumatra 20214, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,unknown,True
+ChIJxdYYjOMxMTAR9kwrO3pLEp0,SeaFood Romance Ratu Hapis,"Jl. Karya, Sei Agul, Kec. Medan Bar., Kota Medan, Sumatera Utara 20235, Indonesia",4,unknown,unknown,unknown,unknown,True
+ChIJeZ9DXsoxMTAR96vCFq0Vu3Q,Wajir Seafood,"Jl. Kol. Sugiono No.31, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJjXOVHPYVnIgRRMvhVCbliNU,Family Seafood,"Jl. H. Adam Malik No.136, Silalas, Kec. Medan Bar., Kota Medan, Sumatera Utara 20235, Indonesia",4.6,unknown,True,unknown,unknown,True
+ChIJCSB9d7wxMTARWqqOoXkN2bg,RM. 007 APAU SEAFOOD,"Jl. Sei Kera, Sidodadi, Kec. Medan Tim., Kota Medan, Sumatera Utara, Indonesia",4.8,unknown,unknown,True,unknown,True
+ChIJeZ9DXsoxMTAR96vCFq0Vu3Q,Medan Sea Food,"JL. Aipda KS. Tubun, No. 124, Pandau Hulu I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJT72PIA0xMTAR2rDDB6ZbU74,"barus,durian","HM7R+5R4, Jl. Pelangi, Teladan Bar., Kec. Medan Kota, Kota Medan, Sumatera Utara 20158, Indonesia",1,unknown,unknown,unknown,unknown,unknown
+ChIJtxJJmsMxMTARHcXgi77rPzs,Regar Durian,"Jl. Denai No.253 C, Tegal Sari Mandala II, Kec. Medan Denai, Kota Medan, Sumatera Utara 20227, Indonesia",4.5,unknown,unknown,unknown,unknown,True
+ChIJ19Bl5cMxMTARj2EEi2tBIuk,SOHO Capital Medan,"Capital Building, Jl. Putri Hijau No.1A 2nd Floor, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.6,PRICE_LEVEL_EXPENSIVE,True,True,True,False
+ChIJi8FA-gkvdTERnbnVCUKEJAY,SARI DURIAN,"Jl. Flamboyan Raya, Tj. Sari, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20135, Indonesia",4,unknown,unknown,unknown,unknown,unknown
+ChIJNbRl-57kuocR6PS90U7zVxE,MEXICAN KEBAB,"HMR3+Q75, Jl. Ayahanda, Sei Putih Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20113, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJOdHSfQreQIYRD5zf4nti6gY,INDO DURIAN,"Jl. Perhubungan No.8, Laut Dendang, Kec. Percut Sei Tuan, Kabupaten Deli Serdang, Sumatera Utara 20371, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJUztYJyYXsocRmY-k3jYYJrw,District 10 Restaurant & Bar,"Forum Nine, Jl. Imam Bonjol No.9, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.3,PRICE_LEVEL_EXPENSIVE,True,True,True,True
+ChIJT2vx4mPNNjAR42DCmxEObIo,Dadang durian,"Rengas Pulau, Medan Marelan, Medan City, North Sumatra 20252, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJ2UxS47WJK4gR8VBNk7FKnao,EL BORRITOZ CAMBRIDGE,"Cambridge City Square, Jl. S. Parman No.217, Petisah Tengah, Medan Petisah, Medan City, North Sumatra 20151, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJw9KxodzswIcRrLBqbgHy4Xc,The Onyx,"Jl. Gatot Subroto No.395, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20119, Indonesia",5,unknown,True,unknown,True,True
+ChIJt8kMLDQuMTARmXTomjIFDnU,Durian Sitepu,"Jl. Sunggal No.51, Sei Sikambing B, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20122, Indonesia",4.1,unknown,unknown,unknown,unknown,True
+ChIJ5w993SkuMTAR4l-Pkl5o9zk,Holycow! Steakhouse by Chef Afit,"Jl. Mayjen D.I Panjaitan No.173, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJG9YDPdoxMTARu44H6x-2ZmU,Meat U Here,"Jl. Burjamhal Komplek Jati Lestari No.B6, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.7,unknown,True,False,True,True
+ChIJgdkD2b7stocRbVjMGALzEW4,Prime Steakhouse,"JW Marriott Hotel, Jl. Putri Hijau No.10 Lantai LG, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.6,unknown,True,unknown,True,False
+ChIJQZLd_6WqbIgRGvbsE32PpL4,The Traders Restaurant,"Jl. Kapten Patimura No.423, Darat, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",4.6,PRICE_LEVEL_EXPENSIVE,True,unknown,True,True
+ChIJ670HCNsvMTARtwYFHSyVhNA,Waroeng Steak & Shake Mansyur Medan,"Jl. Dr. Mansyur No.85, Padang Bulan Selayang I, Kec. Medan Baru, Kota Medan, Sumatera Utara 20131, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJrRl2YR2jE4cR40l0gwiU8qA,Steak 21,"Sun Plaza Lt. 4 R6, Jalan Kh. Zainul Arifin No.7, Petisah Tengah, Medan Petisah, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,unknown,unknown,True
+ChIJ4SWUxGhZwokRjXIRMaWgn9I,O'Flahertys,"Jl. Komodor Udara Adi Sucipto No. 8 U-V, Medan Polonia, Suka Damai, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20219, Indonesia",4.4,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJVVXFGmsOdkgRKD38pwXfANA,Cow & Co.,"Jl. Iskandar Muda No.7, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",4.7,unknown,True,True,True,True
+ChIJpdEQvycvMTARFpFHmvIWbCc,JJ Steak Griya,"Jl. T. Amir Hamzah No.88, Helvetia Tim., Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20114, Indonesia",4.7,unknown,True,unknown,True,True
+ChIJ33vD0e4xMTAR3rQRQn6lDss,Waroeng Steak & Shake Sisingamangaraja Medan,"Jl. Sisingamangaraja No.314, Siti Rejo I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20218, Indonesia",4.2,PRICE_LEVEL_MODERATE,True,unknown,False,True
+ChIJI91x1bExMTARHx3aICMnNwI,ASA HOME STEAK,"HPH5+28F, Tegal Sari III, Medan Area, Medan City, North Sumatra, Indonesia",4.8,unknown,True,True,unknown,True
+ChIJ60YTRcQxMTARBaLwkoRNZ94,WARUNK BIG BOSS,"Jl. Letda Sujono, Bantan Tim., Kec. Medan Tembung, Kota Medan, Sumatera Utara 20223, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJr6sZXeiPeogRuTy5NL4-yPE,JJ Steak Cambridge,"Cambridge City Square, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara, Indonesia",4.6,unknown,True,unknown,True,True
+ChIJrRl2YR2jE4cR40l0gwiU8qA,Steak 21,"Steak 21 Centre Point, Jl. Jawa No.8 Medan Lantai 3A, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20231, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,unknown,True,True
+ChIJa3x8JNIxMTARqsz56U4aw4A,Raden'S Crispy Steak and Spicy Chicken,"Jl. Taruma, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.5,unknown,True,False,True,True
+ChIJwUiX69gxMTARUz2Y7g8FJGo,HEYSTEAK HMJONI,"Jl. HM. Joni No.60, Teladan Tim., Kec. Medan Area, Kota Medan, Sumatera Utara 20217, Indonesia",4.2,PRICE_LEVEL_INEXPENSIVE,True,True,True,True
+ChIJrRl2YR2jE4cR40l0gwiU8qA,Steak 21,"HJRG+9Q6, Sei Sikambing B, Medan Sunggal, Medan City, North Sumatra 20123, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,unknown,True,True
+ChIJnUNKJXBZei4RnO5rg1Krmr0,The Obonk Steak & Ribs,"Jl. T. Amir Hamzah No.42 - 44, Sei Agul, Kec. Medan Bar., Kota Medan, Sumatera Utara 20117, Indonesia",4.6,unknown,True,unknown,True,True
+ChIJT7ibc9kxMTAR_js1RxXwNBY,Steak 21 Plaza Medan Fair,"plaza medan fair, Jl. Gatot Subroto, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20113, Indonesia",4.2,PRICE_LEVEL_MODERATE,True,unknown,True,True
+ChIJqY_nB5gvMTAR_GTQh4rPtKo,Bebe'gor' Steak MAS Wono,"HJ6G+8HF, Tanjung Sari, Medan Selayang, Medan City, North Sumatra 20133, Indonesia",4,unknown,unknown,unknown,unknown,True
+ChIJ35xlwQjAKhMRmXv94eah9ac,Sushi Mentai,"Jl. DR. Cipto No.2, Anggrung, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJg-srAs0xMTARHoQZeN16C4U,Sushi Tei - Teuku Daud,"Jl. Teuku Daud No.6/12, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJ1RbayebvEYgRKWvZq-ZAEIM,Supa Sushi,"HMQG+PCW, Jl. Raden Saleh Dalam, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara, Indonesia",4.4,unknown,True,unknown,unknown,True
+ChIJFfdc6McxMTARlErtEh86GAw,Sushi Tei Centre Point,"Jl. Jawa No.1, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20231, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJXw-XY84xMTARPDLJJabegTY,Sushi Tei - Lippo Plaza Medan,"Jl. Imam Bonjol No.6, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.6,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJgaJ3xCabToYRsJDhxxIGHZw,GENKI SUSHI,"Kesawan, Medan Barat, Medan City, North Sumatra, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJge0ArYIvMTARIlCaZORHw_Q,Sushi Me! Medan,"Jl. Sunggal No.62a, Sei Sikambing B, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20119, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,unknown,True,True
+ChIJVUUQeM0xMTAR7eEG33KWIXI,Sushi Tei Sun Plaza,"Sun Plaza Lantai LG Zona A No. 01, Jalan Kh. Zainul Arifin No. 7, Madras Hulu, Medan Polonia, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20151, Indonesia",4.6,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJkbp3RjaIa4cRZmQ0YvRJstc,Sushi Yay,"Jl. Setia Budi No.211, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20122, Indonesia",3.8,unknown,True,unknown,unknown,True
+ChIJq0KTKgAxMTARUrI_JexQiZw,Osama sushi medan,"Jl. Brigjend Katamso No.29i, Kp. Baru, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20217, Indonesia",4.3,unknown,unknown,unknown,unknown,True
+ChIJ__-_GICn9YgRTjsmvL4I3qo,Shigeru,"Street, Plaza Medan Fair, Jl. Gatot Subroto, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara, Indonesia",4.1,unknown,unknown,unknown,unknown,True
+ChIJB99OkHQxMTARWrZ7k0SwV-4,Shinjuku Izakaya Medan,"Jl. KH. Zainul Arifin No.177, Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara 20151, Indonesia",4.5,unknown,True,False,True,True
+ChIJR8FfG-8xMTARRYziCf4yc2k,Sushi Tei Delipark Mall Medan,"Jl. Putri Hijau No.1, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJ_zTpybMdu4cRxOXqx7Geqfo,Sushi Hiro,"Jl. KH. Zainul Arifin LG Floor, Petisah Hulu, Medan Polonia, Medan City, North Sumatra, Indonesia",4.9,unknown,True,unknown,True,True
+ChIJ35xlwQjAKhMRmXv94eah9ac,Sushi Mentai,"Jl. Gudang Dalam No.5, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara, Indonesia",4.7,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJvwo5-50xMTARz1xfp_kSW5Y,Kimukatsu Deli Park Medan,"Jl. Putri Hijau No.1, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20231, Indonesia",5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJl8m0klQvMTARWl7lhXEQ0q0,Nyushiin,"Jl. K.H. Wahid Hasyim No.118c, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20154, Indonesia",4.1,unknown,True,unknown,unknown,True
+ChIJ2aXaDMrqwIcRCmkagb2mHU8,Sawasdee Thai Restaurant,"Jl. Multatuli Raya, Blok-FF No.36-37, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJPSlOeDFt0YcRHwbFdW4_62c,Chok Dee Thai,"HMWG+8HJ, Kesawan, Medan Barat, Medan City, North Sumatra, Indonesia",4.5,unknown,True,True,True,True
+ChIJ_____79BXIYRBMF4898nIvI,Yum Thai,"Jl. Samanhudi No.7, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20152, Indonesia",4.5,unknown,True,unknown,True,True
+ChIJqwSbeM0xMTARUzpHHe0R0Lo,Kinley Thai Bistro,"Jl. KH. Zainul Arifin No.7, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.2,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJsXjyjuWbRIYR_tu6MnEnkjw,Kawkaw Thai Food,"Jl. Asia No.328h, RT.02, Sei Rengas II, Kec. Medan Area, Kota Medan, Sumatera Utara 20211, Indonesia",4.6,unknown,unknown,unknown,unknown,True
+ChIJbTCyiw0xMTARyfo7eTWMk50,Kaw Kaw ( Thai Food ),"Jl. Sekip, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara, Indonesia",4.1,unknown,unknown,True,unknown,True
+ChIJvUTXdC8RTIYRhLLIWevgUTA,THAI BOX,"Jl. Cut Mutia No.26, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20151, Indonesia",5,unknown,True,unknown,True,True
+ChIJmy951YUxMTAR5gqSKaRruD8,Banthai Suki & BBQ,"sebelah bank BNI Jalan Jenderal Besar A.H. Nasution komplek ruko ATTC No.5-6, Pangkalan Masyhur, Kec. Medan Johor, Kota Medan, Sumatera Utara 20143, Indonesia",4.2,PRICE_LEVEL_MODERATE,True,unknown,True,True
+ChIJJw0oirldDogRqbPugkOKakM,Zaap kebab Turki Bromo,"Jl. Bromo Lrg. Balai Desa No.7, Tegal Sari II, Kec. Medan Area, Kota Medan, Sumatera Utara 20216, Indonesia",4,unknown,unknown,unknown,unknown,True
+ChIJSfT33iUnQYYRzRoUQh0xJDI,King Shisha And Food,"HMCH+57R, Jl. Imam Bonjol, Suka Damai, Kec. Medan Polonia, Kota Medan, Sumatera Utara, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJYbFCQWklMTARNyRshEM98n8,Izzi Kebab &Pizza Turky,"Jl. Jamin Ginting No.119, Mangga, Kec. Medan Tuntungan, Kota Medan, Sumatera Utara 20141, Indonesia",4.3,unknown,unknown,unknown,False,unknown
+ChIJh1tBLP8xMTARNZP5do064Zs,Alfatih Burger & Kebab Turki,"Jl. Karya No.230, Karang Berombak, Kec. Medan Bar., Kota Medan, Sumatera Utara 20238, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJPTX_cDzSKYYR0-fjenQgU34,Kebab Turki Ms.Simple,"Jl. Parang I No.1, Kwala Bekala, Kec. Medan Johor, Kota Medan, Sumatera Utara 20142, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJ96ON2uI7MTARuerTuBghajs,Pide Turkish Pizza Stm Atas Medan,"Jl. STM Atas No.93, Suka Maju, Kec. Medan Johor, Kota Medan, Sumatera Utara 20146, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJaQ-ylbk7MTAROV7L8Q0E7ls,Sate Kelinci Ala Turki Bang Ai,"GMPH+F54, Pangkalan Masyhur, Medan Johor, Medan City, North Sumatra 20219, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJXc4-gykyMTAR026YXAJ2cKA,"IZZI KEBAB & PIZZA TURKEY, BHAYANGKARA","JMFX+356, Jl. Gereja, Indra Kasih, Kec. Medan Tembung, Kota Medan, Sumatera Utara 20221, Indonesia",4.4,unknown,unknown,unknown,unknown,True
+ChIJC1vKGVoxMTARngbybTrsS1Y,Kebab turki zahara outlet 2,"Jl. Ismailiyah No.146, Kota Matsum II, Kec. Medan Area, Kota Medan, Sumatera Utara 20216, Indonesia",4.5,unknown,unknown,unknown,unknown,True
+ChIJG_kHmOwvMTAR_dp67f7ttWg,Syahid Kebab Turki,"JJ4H+3CV, Jl. Beringin 3, Helvetia, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20123, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJBzqkpPm5yhQRwFCnm73Y5zg,KING KEBAB Turkiye,"Jl. Setia Makmur, Tj. Selamat, Kec. Sunggal, Kabupaten Deli Serdang, Sumatera Utara 20128, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJP5AS-FgpTIYRilTZgbrOWUk,Plummy Tummy,"Jl. Karya Wisata No.52, Gedung Johor, Kec. Medan Johor, Kota Medan, Sumatera Utara 20144, Indonesia",3,unknown,unknown,unknown,unknown,unknown
+ChIJGXu90diMtocRB8x7C7AitEs,Toke Kebab,"Jl. Marelan Raya Ps. II No.240, Rengas Pulau, Kec. Medan Marelan, Kota Medan, Sumatera Utara 20255, Indonesia",4.7,unknown,unknown,unknown,unknown,True
+ChIJAVKgzmS70ocR3A6F8NDRzS4,Kebab turki & burger MARYAM,"HPXG+5G9, Gg. Adil, Bandar Selamat, Kec. Medan Tembung, Kota Medan, Sumatera Utara 20225, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJUxyjiA9nZIgRjo_zT38aXvk,Barokah Kebab & Pizzaria,"Jl. Selamat No.1-21, Sitirejo III, Kec. Medan Amplas, Kota Medan, Sumatera Utara 20217, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJUxyjiA9nZIgRjo_zT38aXvk,Barokah Kebab & Pizzaria,"Jl Sisingamangaraja Mangaraja No.58 B, Sitirejo II, Kec. Medan Amplas, Kota Medan, Sumatera Utara 20217, Indonesia",4.5,unknown,unknown,unknown,unknown,True
+ChIJ8-sadcYvMTARViQWYHS0M88,"My Kebab Turki, Kasuari","Jl. Kasuari No.32, Sei Sikambing B, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20119, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJ8TvqLbOv1TERXk8yd80g28w,Kebab Turki Haji Jamhur,"JM98+63F, Jl. Karya, Karang Berombak, Kec. Medan Bar., Kota Medan, Sumatera Utara, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJF5qtnYMxMTAR0YpMi3IGFdk,Izzi kebab seksama,"Jalan Seksama Ujung No.150 ( sebelah, Gg. Restu, Sitirejo III, Kec. Medan Amplas, Kota Medan, Sumatera Utara 20226, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJx024mVkwMTARDyJAK4e6yRk,Kebab Turki Babarafi,"Jl. HM. Joni No.51A, Teladan Tim., Kec. Medan Kota, Kota Medan, Sumatera Utara 20217, Indonesia",2.2,unknown,unknown,unknown,False,True
+ChIJSwxfzntpsocRDazxZLP-6eQ,Pho House,"Jl. Aipda KS Tubun No.59/77, Pandau Hulu I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20233, Indonesia",4.8,unknown,unknown,unknown,True,True
+ChIJuRDiLd399IgRoBjzp6KHNtg,Song Dai Pho,"Jl. Makmur No.8c, Medan Estate, Kec. Percut Sei Tuan, Kabupaten Deli Serdang, Sumatera Utara 20221, Indonesia",4.1,unknown,True,unknown,True,True
+ChIJr5PPk8oxMTARGK2_gt4GdRE,LovingHut Wajir,"HMJJ+V8J, Jl. Kol. Sugiono, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJi5FzBr8xMTARtg-o81ZqQeo,PEOPLE'S PLACE CAFE Medan,"Jl. R.A. Kartini No.29, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20151, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,True,True,True
+ChIJ__nZGtIxMTAR4rsdyEmi5D4,VOI Vegan Restaurant And Pastry Shop,"Jl. Kalingga No.18, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20151, Indonesia",4.5,unknown,True,False,True,True
+ChIJp7TKjhy72YgRNzhWYfhcPSE,Happy Vegan,"Jl. Kota Baru II No.27, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",4.5,unknown,True,unknown,unknown,True
+ChIJveRaumxTBogRK7U6NB678OQ,Indonesia Vegan Restoran,"Jl. Gandhi No.222, Sei Rengas I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia",4.8,unknown,True,unknown,unknown,True
+ChIJD2vxWNIxMTARcN6V9EPkj3Y,Medan Vegetarian,"JL. Airlangga No. 23A-25, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20151, Indonesia",4.5,PRICE_LEVEL_MODERATE,unknown,unknown,unknown,True
+ChIJH3Em_cTlQIYR5EF0BX9mGV0,Lotus Vegan Food,"Jl. Sabaruddin No.3, Sei Rengas II, Kec. Medan Area, Kota Medan, Sumatera Utara 20211, Indonesia",4.4,unknown,unknown,False,unknown,True
+ChIJwwDbdkVfYIgRy3-Iae1c0f0,Green Bean Vegetarian,"Jl. Sun Yat Sen No.26, Sei Rengas I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJb3mwCdlV2YARxvHJGrBpuAM,Loving Hut (Express),"Jl. Wahidin No.100 D, Pandau Hulu II, Kec. Medan Kota, Kota Medan, Sumatera Utara 20233, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJE6ZzIqQxMTAR3OiDKAgBNj8,GOLDEN BELLS Vegetarian Cafe & Resto,"Jl. Gunung Krakatau No No.103CD, Glugur Darat I, Kec. Medan Tim., Kota Medan, Sumatera Utara 20236, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJQ-27X9IxMTARMRFoCdhC_bY,Socrates Vegan,"Jl. Airlangga No.14 - C, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,unknown,True,True
+ChIJcScprrExMTARYP-22CDs1Bs,Thamrin Vegan,"Jl. M.H Thamrin No.75n, Pandau Hulu I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia",unknown,unknown,unknown,unknown,unknown,True
+ChIJ_4Zffa8xMTAR3616hWpWdEI,Agek Vegetarian,"Jl. Gajah No.63, Pandau Hulu II, Kec. Medan Area, Kota Medan, Sumatera Utara 20211, Indonesia",4.7,unknown,unknown,unknown,unknown,True
+ChIJ6-MnJb8xMTARXWyDAjXrtI4,Nie Nie Vegetarian Food,"Jl. Prof. Dr. HM. Yamin SH No. 23-W, Perintis, Medan Timur, Perintis, Kec. Medan Tim., Kota Medan, Sumatera Utara 20232, Indonesia",4.6,unknown,unknown,False,unknown,True
+ChIJc_rv1VUA9YgROWU4qs90dYM,Love Vegetarian Kitchen,"Jl. Gatot Subroto KM.8,2, Cinta Damai, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20126, Indonesia",4.1,unknown,True,unknown,unknown,True
+ChIJEfwsALAxMTARJnaJpYPiMXs,Niang Mama,"Jl. Pekanbaru No.28, Pandau Hulu I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia",4.5,unknown,True,True,True,True
+ChIJ6_ZsJAHID4gRWWLY9Ec1Puc,Atin Vegan Food,"Jl. Kapten Jumhana No.28T, Sukaramai II, Kec. Medan Area, Kota Medan, Sumatera Utara 20224, Indonesia",4,PRICE_LEVEL_MODERATE,unknown,False,unknown,True
+ChIJYQb_ca8tDogRmMp-PPfgUE8,Rumah Vegetarian & Vegan,"Jl. Multatuli No.15, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4,unknown,unknown,unknown,unknown,True
+ChIJsQYigbgxMTARL4knxvbNSOI,My Grandma Vegetarian Restaurant,"Jl. Timor Baru II No.52/79, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20232, Indonesia",4.2,PRICE_LEVEL_MODERATE,True,False,unknown,True
+ChIJr5PPk8oxMTARGK2_gt4GdRE,LovingHut Wajir,"HMJJ+V8J, Jl. Kol. Sugiono, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJ049CPjsX2jERbgQc9NDusQU,Gan En Vegetarian,"Jl. Punak No.6/12A, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",4.1,unknown,unknown,unknown,unknown,True
+ChIJPYp7ne4xMTAR6r1xUvQnqWc,RM Shen Yan Vegetarian,"Jl. Bambu II No.78, Durian, Kec. Medan Tim., Kota Medan, Sumatera Utara 20235, Indonesia",4.5,unknown,True,unknown,True,True
+ChIJA0Z8DdcxMTARjMOHCQic9iQ,Biduk Vegetarian,"Jl. Wahidin No.4D, Pandau Hulu I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia",4.5,unknown,unknown,unknown,unknown,True
+ChIJlwSsDVIxMTARoqp_5pWu2_E,Lezat Vegetarian,"Jl. Gajah No.92, Pandau Hulu II, Kec. Medan Area, Kota Medan, Sumatera Utara 20233, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,False,unknown,True
+ChIJK9ZrvcXTr4cRMxDAcikwgxg,Rumah Makan Vegetarian (fo Yuan),"JMF9+JRC, Jl. KL. Yos Sudarso, Pulo Brayan Kota, Kec. Medan Bar., Kota Medan, Sumatera Utara 20116, Indonesia",4.4,unknown,True,False,unknown,True
+ChIJ8Wx7GK8xMTARVmuZzWhvZkw,Aroma Maitri Vegetarian,"Jl. Wahidin No.140 24G, Pandau Hulu II, Kec. Medan Area, Kota Medan, Sumatera Utara 20212, Indonesia",4.4,PRICE_LEVEL_INEXPENSIVE,unknown,unknown,unknown,True
+ChIJfQE-n9sxMTARxpXMkWC8b8s,Waringin Vegetarian,"Jl. Waringin No.3B 5b, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",4.6,unknown,False,False,unknown,True
+ChIJOYAO9eMxMTARx7uvvydT2uw,Satu Nusantara Vegetarian,"HMRV+W96, Jl. HOS Cokroaminoto, Sei Kera Hulu, Kec. Medan Kota, Kota Medan, Sumatera Utara, Indonesia",4.5,unknown,unknown,unknown,unknown,True
+ChIJYVrNVkSPa4cRLVZkp60LBfc,JC VEGETARIAN & COFFE,"Jl. Mustafa No.33 C, Pulo Brayan Darat I, Kec. Medan Tim., Kota Medan, Sumatera Utara 20238, Indonesia",4.4,unknown,True,unknown,unknown,True
+ChIJYQb_ca8tDogRmMp-PPfgUE8,Veggie house,"Jl. Multatuli, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4.6,unknown,True,False,unknown,True
+ChIJsaYUj_aEt4cR0AJSouUUoZM,KFC,"Jl. Sisingamangaraja Kelurahan No.41, Sitirejo III, Kec. Medan Kota, Kota Medan, Sumatera Utara 20216, Indonesia",4.4,PRICE_LEVEL_MODERATE,unknown,True,True,True
+ChIJW-9u5FgOBYgR6ZH5nfVzDgg,A & W,"Jl. Gatot Subroto No.30 58 - 59, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20113, Indonesia",4.2,PRICE_LEVEL_MODERATE,unknown,unknown,True,True
+ChIJkfqjZ80xMTAR7OupyMbpncc,4 Fingers Crispy Chicken,"Jl. Teuku Umar No.69, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20151, Indonesia",4.5,unknown,unknown,unknown,unknown,True
+ChIJB4VDHsoxMTARXiT_UrIpknY,Texas Chicken Medan Mall,"Jl. M. T. Haryono No.Lt 32 Lt.1, Pusat Pasar, Medan Kota, Medan City, North Sumatra 20212, Indonesia",3.7,PRICE_LEVEL_MODERATE,unknown,unknown,unknown,True
+ChIJOagZUcgzMTARJMA6XAzrnFI,Telur Gulung & Burger AQMAL,"Gg. Bali No.35, Glugur Darat II, Kec. Medan Tim., Kota Medan, Sumatera Utara 20236, Indonesia",3.8,unknown,unknown,unknown,unknown,True
+ChIJWdrSD00St4cRSnCrkZ-t92E,Wendy's,"Jl. KH. Zainul Arifin No.7, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.1,PRICE_LEVEL_MODERATE,unknown,False,True,True
+ChIJ6dtZ_5v7vIcRu9YIMLneOSY,HEAVY,"Jl. Bima Sakti No.16, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.6,unknown,unknown,unknown,unknown,True
+ChIJW-9u5FgOBYgR6ZH5nfVzDgg,A & W,"Jl. Dr. Mansyur No.1 A, Padang Bulan Selayang I, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20154, Indonesia",4.3,PRICE_LEVEL_MODERATE,unknown,unknown,True,True
+ChIJsaYUj_aEt4cR0AJSouUUoZM,KFC,"Jl. H. Adam Malik No.5 7, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20231, Indonesia",4.4,PRICE_LEVEL_MODERATE,unknown,True,True,True
+ChIJXTydlr8xMTARjRqvXHcFiFo,KFC Simpang Sutomo Medan,"Jl. Perintis Kemerdekaan, Gaharu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20232, Indonesia",4.4,PRICE_LEVEL_MODERATE,unknown,unknown,True,True
+ChIJ4_gyJjYOiYgRZ5a8_Cm55Xc,Burger King Center Point,"Jl. Jawa No.8, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20231, Indonesia",4.6,PRICE_LEVEL_MODERATE,unknown,unknown,True,True
+ChIJmXkPx1gdvy0RZZ0UHJvoY6g,Richeese Factory,"Jl. Gajah Mada, Babura, Kec. Medan Baru, Kota Medan, Sumatera Utara 20112, Indonesia",4.3,PRICE_LEVEL_MODERATE,unknown,True,True,True
+ChIJH0OYKaUxMTAR9JtlJmXtAd4,Burger King Deli park,"Jl. Putri Hijau Jl. Guru Patimpus No.1, Kesawan, OPQ, Kota Medan, Sumatera Utara 20111, Indonesia",4.8,PRICE_LEVEL_MODERATE,unknown,unknown,True,True
+ChIJS4J0DiouMTARNnVFS6vKc7Y,KFC Simpang Mataram Medan,"Jl. Gajah Mada No.14, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20028, Indonesia",4.5,PRICE_LEVEL_MODERATE,unknown,True,True,True
+ChIJmXkPx1gdvy0RZZ0UHJvoY6g,Richeese Factory,"Centre Point Mall Lt. 3A No. 25, Jalan Jawa No.8a, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20123, Indonesia",4.2,PRICE_LEVEL_MODERATE,unknown,unknown,unknown,True
+ChIJFwYXUYqEt4cRqoP34n5Z_q8,Fast Food Restaurant,"Jl. Sekip No.22, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20118, Indonesia",2,unknown,unknown,unknown,unknown,True
+ChIJ9XhbZEkSt4cRrt1_UY3R0Ns,Burger King,"Jl. Gatot Subroto No.30, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20113, Indonesia",4.7,PRICE_LEVEL_MODERATE,unknown,False,True,True
+ChIJ8UCDTi8wMTAR9iFb92HCRz4,KFC Walikota Medan,"Jl. Mongonsidi No.14, Suka Damai, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20152, Indonesia",4.5,PRICE_LEVEL_MODERATE,unknown,True,True,True
+ChIJsaYUj_aEt4cR0AJSouUUoZM,KFC,"Jl. Jawa No.8 - 20231, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20231, Indonesia",4.2,PRICE_LEVEL_MODERATE,unknown,unknown,True,True
+ChIJPyrCKB7Lj4AR0RBqikVe0jQ,Shihlin,"HMJC+MG7, Madras Hulu, Medan Polonia, Medan City, North Sumatra, Indonesia",4.3,PRICE_LEVEL_MODERATE,unknown,False,unknown,True
+ChIJqSMAWMNvyYcRmYw9NyHQzM0,Spoon Dining,"Jl. Balai Kota No. 1 Petisah Tengah Medan Petisah Medan, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20236, Indonesia",4.4,unknown,True,True,True,True
+ChIJDSZlZs4xMTARNyGxQIrNK_E,The Big Eyed,"Jl. Imam Bonjol No.6, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJ8XucJcwvMTAR3Cp9DDfq5TA,Cafe Rumah Pohon,"Jl. Sei Belutu No.114, Padang Bulan Selayang I, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20131, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJqUG4acYvMTARWSccb4HAFU4,Desadesa Resto,"Jl. Setia Budi No.190/12, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20154, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJ7cSrJ6tM34cRnbfrlBQNy7A,The Upper Level,"Jl. Taruma No.52 Level 2, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.7,unknown,True,False,True,unknown
+ChIJkf-jmFVeXIYRjmsdfvxJar8,Tip Top Restaurant,"Jl. Jend. Ahmad Yani No.92 A-B, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20212, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJHw_3wekxMTARRRKKi952VdE,LKKR (Lekker Urban Food House Putri Hijau),"West Medan City, Putri Hijau Driving Range, Jl. Putri Hijau No.1, Silalas, Medan Barat, Medan City, North Sumatra 20111, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJl0jtfjYwMTAR0nUky8AA2_s,The Thirty-Six,"Jl. Multatuli No.36, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.6,PRICE_LEVEL_EXPENSIVE,True,True,True,True
+ChIJs9mrhcoxMTAREPUbQbT53BU,"Miramar Restaurant, Medan","Jl. Pemuda No.11 ABC, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4.4,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJIQdfPdExMTARdNZDSqggR0E,"Ai Moka Bakery, Cafe & Catering","Jl. S. Parman No.19/225A, Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",4.4,PRICE_LEVEL_MODERATE,unknown,False,True,True
+ChIJVRivM9MxMTARYKH8CGz_xZ4,Restoran Pohon Pisang,"Komplek The Crown, Jl. S. Parman No.16-17 Blok A, Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",4.3,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJS1m-AVUwMTARfnvQ15LtTJg,Rumah Blepots,"Jl. Medan Area Selatan No.66, Sukaramai I, Kec. Medan Area, Kota Medan, Sumatera Utara 20227, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJXaUAQbYxMTARSfeqs2KYqkg,Restoran Ria,"Jl. Letjen MT. Haryono No. 11-15, Ps. Baru, Kec. Medan Kota, Kota Medan, Sumatera Utara 20212, Indonesia",4.6,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJrbUpddMxMTARqvOs0vnkpkM,Koki Sunda,"Jl. Hasanuddin No.1, Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara 20152, Indonesia",4.5,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJAc3E9ao6MTARAeftvc5CUQQ,ALUN - ALUN KULINER INDONESIA,"Jl. Karya Wisata No.26, Pangkalan Masyhur, Kec. Medan Johor, Kota Medan, Sumatera Utara 20143, Indonesia",4.2,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJQ5pQUENryYcRqyETTNK5-K0,Jade Restaurant,"JW Marriott Medan, Jl. Putri Hijau No.10, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.5,unknown,True,False,True,True
+ChIJ3VkPs8sxMTARO-CUXExw20o,Rumah Makan Tabona,"Jl. Mangkubumi No.17, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJkcDVaLUxMTAR8rvRJHMNocA,NO BRAND CAFE,"J K L, Jl. Pandu No.1, A U R, Medan Maimun, Medan City, North Sumatra 20212, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJ01TKUnzQ2IcRm7fVfILnEnw,Ji Long Chinese Restaurant,"Grand City Hall Medan, JL.Balai Kota ,Medan Kota 20112, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20149, Indonesia",4.6,unknown,True,False,True,True
+ChIJ2aXaDMrqwIcRCmkagb2mHU8,Sawasdee Thai Restaurant,"Jl. Multatuli Raya, Blok-FF No.36-37, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.5,PRICE_LEVEL_EXPENSIVE,True,False,True,True
+ChIJQZLd_6WqbIgRGvbsE32PpL4,The Traders Restaurant,"Jl. Kapten Patimura No.423, Darat, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",4.6,PRICE_LEVEL_EXPENSIVE,True,unknown,True,True
+ChIJpRPSe70xMTARMwHkC-EvPhI,Burger Purwo Medan,"Jl. Purwo Jl. Tempuling No.137, Perintis, Kec. Medan Tim., Kota Medan, Sumatera Utara 20233, Indonesia",4.4,unknown,unknown,True,unknown,unknown
+ChIJI_zgJfkxMTARH2M9by807LI,Mik3_burger,"JM98+3GM, Gg. IDI I, Karang Berombak, Kec. Medan Bar., Kota Medan, Sumatera Utara 20238, Indonesia",4.3,unknown,unknown,unknown,unknown,True
+ChIJzUC7k8YvMTAReKWjVCFz7C4,Cuexx Burger Medan Simpang Dr. Mansyur,"sederetan Raz Hotel sebelah Miesop Kampung Djoyo, Jl. Dr. Mansyur No.166, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20154, Indonesia",4.6,unknown,unknown,unknown,unknown,True
+ChIJUztYJyYXsocRmY-k3jYYJrw,District 10 Restaurant & Bar,"Forum Nine, Jl. Imam Bonjol No.9, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.4,PRICE_LEVEL_EXPENSIVE,True,True,True,True
+ChIJHVigzZuStocRHhH-SSDDNVE,Street burger,"Jl. Turi II No.7, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.7,unknown,unknown,unknown,unknown,True
+ChIJjUOnck0dE4gRUcvK3yfjk_k,SCOOT street food,"Jl. Abdullah Lubis No.79 / 99, Merdeka, Kec. Medan Baru, Kota Medan, Sumatera Utara 20154, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJQxyn2dUvMTARdxYCN_8-0nE,Burger Sei Putih,"Jl. Sei Putih No.11a, Merdeka, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",4.5,PRICE_LEVEL_INEXPENSIVE,False,True,False,unknown
+ChIJvRLxoTYvMTARNqmhBnM_YB8,Wrap N Roll Medan,"BBC Learning Centre, Jl. Sei Serayu No.41, Babura Sunggal, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20121, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJu05FJK0vMTAR1SrL7uxRAvA,Muda Burgerbar Medan,"Jl. Setia Budi, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara, Indonesia",4.9,unknown,unknown,unknown,unknown,True
+ChIJM83bXaczMTAR5MKWF_SAyds,JAJANLA_SKUY,"Jl. Karya No.322, Karang Berombak, Kec. Medan Bar., Kota Medan, Sumatera Utara 20117, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJdzhXcvgqXogRLG1wZhZt7ro,Wkwk Burger,"Jl. Utama No.216, Kota Matsum II, Kec. Medan Area, Kota Medan, Sumatera Utara 20216, Indonesia",4.3,unknown,unknown,unknown,unknown,True
+ChIJY_NFpGkxMTARLuAnndeHg20,Burger Bangor Iskandar Muda,"Jl. Iskandar Muda, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara, Indonesia",4.2,PRICE_LEVEL_MODERATE,unknown,True,unknown,True
+ChIJgdkD2b7stocRbVjMGALzEW4,Prime Steakhouse,"JW Marriott Hotel, Jl. Putri Hijau No.10 Lantai LG, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",4.6,unknown,True,unknown,True,False
+ChIJ9U3vQKkxMTAREgq9O7BeHWA,Burger Logam,"Jl. Asia No.169c, Sei Rengas II, Kec. Medan Area, Kota Medan, Sumatera Utara 20211, Indonesia",4.7,PRICE_LEVEL_MODERATE,False,unknown,False,True
+ChIJO8waXB4yMTAR9TkaHT8USDE,Burger Anto sejak 1990,"JMFH+284, Jl. Mustafa, Pulo Brayan Darat I, Kec. Medan Tim., Kota Medan, Sumatera Utara 20239, Indonesia",4.9,unknown,unknown,unknown,unknown,True
+ChIJS9vupA5nZIgRiXd6QqvCjds,Jack Erlin Burger,"Jl. Prof. H. M. Yamin No.292, Sei Kera Hilir II, Kec. Medan Perjuangan, Kota Medan, Sumatera Utara 20222, Indonesia",5,unknown,unknown,unknown,unknown,True
+ChIJDSZlZs4xMTARNyGxQIrNK_E,The Big Eyed,"Jl. Imam Bonjol No.6, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,False,True,True
+ChIJIX_lnDo7TIYRZ6cFUN7AmTI,Cella Burger,"HMQQ+MM9, Jl. Talaud, Pusat Ps., Kec. Medan Kota, Kota Medan, Sumatera Utara 20212, Indonesia",4.5,unknown,unknown,unknown,unknown,True
+ChIJIfZvk4MLIocREY9_uG728Mw,21 Burger,"HJPX+33G, Babura Sunggal, Medan Sunggal, Medan City, North Sumatra, Indonesia",4.7,unknown,unknown,True,unknown,unknown
+ChIJ465IzKYxMTARcQHHnbTQlXU,Cafe Lissoi Medan,"Jl. Karya No.161c, Karang Berombak, Kec. Medan Bar., Kota Medan, Sumatera Utara 20238, Indonesia",4.4,unknown,unknown,unknown,unknown,True
+ChIJuWOq_fuGbIcRwn78SJXt6eU,The Stepping Stone,"Jl. Tembakau Deli No.1, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20231, Indonesia",4.2,unknown,unknown,unknown,unknown,True
+ChIJeQKpUFUvMTARItCg261Va-Y ,Merah Putih Cafe,"Jl. Abdul Hakim No.48, Padang Bulan Selayang I, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20154, Indonesia",4.4,unknown,unknown,unknown,unknown,True
+ChIJr6fw49vvzIcR-JAXNO_cEsg,Junction Caf├â┬®,"Jl. Uskup Agung No.2, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20151, Indonesia",4.4,unknown,unknown,unknown,unknown,True
+ChIJZxmNgLH71y0R6hQTKrVet3Q,TEMPAT NONGKRONG,"HMJC+XM8, Madras Hulu, Medan Polonia, Medan City, North Sumatra, Indonesia",5,unknown,unknown,unknown,unknown,unknown
+ChIJh8kMOCowMTARnnDz_V_Ue08,Cafe Nongkrong,"Jl. Amaliun No.98, Kota Matsum II, Kec. Medan Area, Kota Medan, Sumatera Utara 20215, Indonesia",4.3,unknown,unknown,True,True,unknown
+ChIJOxRCPj233IcRVNzQMLJDpHE,Cafe Columbia,"Jl. Listrik No.2, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20212, Indonesia",4.6,PRICE_LEVEL_MODERATE,True,unknown,True,True
+ChIJk3TGltvNQIYRSX83YlkuQFk,Champion Cafe,"Jl. Dr. Mansyur No.134, Padang Bulan Selayang I, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20122, Indonesia",4.5,unknown,True,True,True,unknown
+ChIJh8kMOCowMTARnnDz_V_Ue08,Cafe Nongkrong,"HMG6+QR4, Petisah Hulu, Medan Baru, Medan City, North Sumatra 20152, Indonesia",4.3,unknown,unknown,unknown,unknown,unknown
+ChIJ94_5sukxMTARjSsNaJe5fLQ,Chat Box Coffee,"SPBU COCO, Jl. KL. Yos Sudarso No.mor 6, Dalam, Kec. Medan Bar., Kota Medan, Sumatera Utara 20234, Indonesia",4.3,unknown,unknown,unknown,True,False
+ChIJl0jtfjYwMTAR0nUky8AA2_s,The Thirty-Six,"Jl. Multatuli No.36, Hamdan, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.6,unknown,True,True,True,True
+ChIJi5FzBr8xMTARtg-o81ZqQeo,PEOPLE'S PLACE CAFE Medan,"Jl. R.A. Kartini No.29, Madras Hulu, Kec. Medan Polonia, Kota Medan, Sumatera Utara 20151, Indonesia",4.5,unknown,True,True,True,True
+ChIJD1SAcwuLcC4RMy6AideFUMQ,Borjuis Coffee,"Jl. H. Adam Malik No.21, Silalas, Kec. Medan Bar., Kota Medan, Sumatera Utara 20231, Indonesia",4.9,unknown,unknown,unknown,unknown,unknown
+ChIJvcxgA84xMTARaIlpXCGLrc0,Sosmed Cafe Abdullah Lubis,"Jl. Abdullah Lubis No.8-20, Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",4.3,PRICE_LEVEL_EXPENSIVE,True,True,True,True
+ChIJBZcg7NAxMTARj7wS23Ucu0g,KA Kupi,"Jl. Prof. H. M. Yamin No.35, Sidodadi, Kec. Medan Tim., Kota Medan, Sumatera Utara 20232, Indonesia",4.4,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJzbnoC09Zei4R-gugP_W-sLw,POS Kupi,"Jl. Karya Wisata No.56, Pangkalan Masyhur, Kec. Medan Johor, Kota Medan, Sumatera Utara 20146, Indonesia",4.2,PRICE_LEVEL_MODERATE,True,True,True,True
+ChIJpfjTOVjrtocR8xbiVsYXxOA,Arena Cafe,"Jl. H. Adam Malik No.5, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20114, Indonesia",4.9,unknown,True,unknown,True,unknown
+ChIJq-5Vu7wNSYYRbfts_nvXv-I,Brothers Cafe,"Jl. Suryo No.9, J A T I, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",4.4,unknown,True,True,True,True
+ChIJrTs2wO1laYcRLeioBCIF_-M,Cafe Mama Rose,"JM2C+H62, Silalas, Medan Barat, Medan City, North Sumatra 20234, Indonesia",4.5,unknown,unknown,unknown,unknown,unknown
+ChIJUz3IKtUvMTARmL4jDZ0Jr7c,Kito Art Cafe & Resto,"Jl. K.H. Wahid Hasyim No.31, Babura, Kec. Medan Baru, Kota Medan, Sumatera Utara 20154, Indonesia",4.2,PRICE_LEVEL_MODERATE,True,True,True,True
